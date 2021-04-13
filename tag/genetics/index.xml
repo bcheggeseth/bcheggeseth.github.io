@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Genetics | Brianna C. Heggeseth</title>
-    <link>bcheggeseth.github.io/tag/genetics/</link>
-      <atom:link href="bcheggeseth.github.io/tag/genetics/index.xml" rel="self" type="application/rss+xml" />
+    <title>Genetics | Brianna Heggeseth</title>
+    <link>https://bcheggeseth.github.io/tag/genetics/</link>
+      <atom:link href="https://bcheggeseth.github.io/tag/genetics/index.xml" rel="self" type="application/rss+xml" />
     <description>Genetics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
       <title>Genetics</title>
-      <link>bcheggeseth.github.io/tag/genetics/</link>
+      <link>https://bcheggeseth.github.io/tag/genetics/</link>
     </image>
     
     <item>
       <title>Cricket Courtship</title>
-      <link>bcheggeseth.github.io/project/crickets/</link>
+      <link>https://bcheggeseth.github.io/project/crickets/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/crickets/</guid>
+      <guid>https://bcheggeseth.github.io/project/crickets/</guid>
       <description>&lt;p&gt;After consulting for a Williams undergraduate student working on a genetics thesis, I became involved in the project to determine the association between the chemical “smell” of crickets and the mating between a pair of crickets. In addition to dealing with the dependence of repeated measures, I used survival analysis techniques to analyze the time until mating commenced.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

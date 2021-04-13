@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brianna C. Heggeseth</title>
-    <link>bcheggeseth.github.io/</link>
-      <atom:link href="bcheggeseth.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Brianna C. Heggeseth</description>
+    <title>Brianna Heggeseth</title>
+    <link>https://bcheggeseth.github.io/</link>
+      <atom:link href="https://bcheggeseth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brianna Heggeseth</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
-      <title>Brianna C. Heggeseth</title>
-      <link>bcheggeseth.github.io/</link>
+      <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
+      <title>Brianna Heggeseth</title>
+      <link>https://bcheggeseth.github.io/</link>
     </image>
     
     <item>
       <title>Definitions</title>
-      <link>bcheggeseth.github.io/inclusion/definitions/</link>
+      <link>https://bcheggeseth.github.io/inclusion/definitions/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/inclusion/definitions/</guid>
+      <guid>https://bcheggeseth.github.io/inclusion/definitions/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Cultivating a Inclusive &amp; Equitable Climate</title>
-      <link>bcheggeseth.github.io/inclusion/climate/</link>
+      <link>https://bcheggeseth.github.io/inclusion/climate/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/inclusion/climate/</guid>
+      <guid>https://bcheggeseth.github.io/inclusion/climate/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -206,9 +206,9 @@
     
     <item>
       <title>Inclusive Course Design</title>
-      <link>bcheggeseth.github.io/inclusion/design/</link>
+      <link>https://bcheggeseth.github.io/inclusion/design/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/inclusion/design/</guid>
+      <guid>https://bcheggeseth.github.io/inclusion/design/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -426,9 +426,9 @@
     
     <item>
       <title>Increase your own Awareness</title>
-      <link>bcheggeseth.github.io/inclusion/awareness/</link>
+      <link>https://bcheggeseth.github.io/inclusion/awareness/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/inclusion/awareness/</guid>
+      <guid>https://bcheggeseth.github.io/inclusion/awareness/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -487,9 +487,9 @@
     
     <item>
       <title>Prenatal PFAS and Early Childhood Growth</title>
-      <link>bcheggeseth.github.io/project/prenatalpfas/</link>
+      <link>https://bcheggeseth.github.io/project/prenatalpfas/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/prenatalpfas/</guid>
+      <guid>https://bcheggeseth.github.io/project/prenatalpfas/</guid>
       <description>&lt;p&gt;In 2016, Dr. Megan Romano of Dartmouth University contacted me regarding my expertise in longitudinal methods for childhood growth. I helped her write a grant proposal and started working as a statistical consulting on this approved grant that seeks to estimate the relationship between exposure to PFASs and childhood adiposity growth over time. I wrote the analysis plan, implemented it, and we are writing up the conculsions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -500,9 +500,9 @@
     
     <item>
       <title>Mia Collaboration</title>
-      <link>bcheggeseth.github.io/project/miacollaboration/</link>
+      <link>https://bcheggeseth.github.io/project/miacollaboration/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/miacollaboration/</guid>
+      <guid>https://bcheggeseth.github.io/project/miacollaboration/</guid>
       <description>&lt;p&gt;In the Fall of 2019, I start working the the publicly available collection data at &lt;a href=&#34;https://github.com/artsmia/collection&#34;&gt;https://github.com/artsmia/collection&lt;/a&gt;. I reached out to staff at the Minneapolis Institute of Art and we found that I could help them achieve new goals for analyzing their collection data. With the help of Macalester students, we have provided internal reports of analysis of art object metadata and location history.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Products&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -528,17 +528,17 @@
     
     <item>
       <title>Data Sets</title>
-      <link>bcheggeseth.github.io/teaching/datasets/</link>
+      <link>https://bcheggeseth.github.io/teaching/datasets/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/teaching/datasets/</guid>
+      <guid>https://bcheggeseth.github.io/teaching/datasets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Experience</title>
-      <link>bcheggeseth.github.io/teaching/teachingexperience/</link>
+      <link>https://bcheggeseth.github.io/teaching/teachingexperience/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/teaching/teachingexperience/</guid>
+      <guid>https://bcheggeseth.github.io/teaching/teachingexperience/</guid>
       <description>&lt;p&gt;Prior to working at Macalester College, I taught courses at Williams College and University of California Berkeley.&lt;/p&gt;
 &lt;h2 id=&#34;williams-college&#34;&gt;Williams College&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;STAT 101: Elementary Statistics &amp;amp; Data Analysis&lt;/strong&gt;&lt;/p&gt;
@@ -597,9 +597,9 @@
     
     <item>
       <title>Diversity of artists in major U.S. museums</title>
-      <link>bcheggeseth.github.io/project/artistdiversity/</link>
+      <link>https://bcheggeseth.github.io/project/artistdiversity/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/artistdiversity/</guid>
+      <guid>https://bcheggeseth.github.io/project/artistdiversity/</guid>
       <description>&lt;p&gt;In collaboration with a team of applied mathematicians, statisticians, and art historians and curators, I used data science and machine learning tools to estimate the diversity of artists at 18 U.S. art museums. The project goal was to make inferences about artist characteristics to summarize the diversity of a museum’s collection.&lt;/p&gt;
 &lt;p&gt;We performed data collection by web scraping information about the collections at the chosen art museums, designed the sampling method to create a subset of artists to focus on, and created a website that provides access to our final data set as well as graphical summaries for broad access to our results.&lt;/p&gt;
 &lt;p&gt;This work has been covered in international news outlets including the San Francisco Chronicle, Smithsonian Magazine, The Guardian (UK), Minnesota Public Radio, and MIT Technology Review.&lt;/p&gt;
@@ -620,9 +620,9 @@
     
     <item>
       <title>Diversity on Display at the National Gallery</title>
-      <link>bcheggeseth.github.io/project/diversityondisplay/</link>
+      <link>https://bcheggeseth.github.io/project/diversityondisplay/</link>
       <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/diversityondisplay/</guid>
+      <guid>https://bcheggeseth.github.io/project/diversityondisplay/</guid>
       <description>&lt;p&gt;As a member of a team of applied mathematicians, statisticians, and art historians and curators, I was invited to participate in the &lt;a href=&#34;https://www.nga.gov/press/2019/datathon.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Gallery of Art (NGA) Datathon&lt;/a&gt;. Our task was to analyze, contextualize, and visualize its permanent collection data. Our team focused on the location history of each art object and try to highlight the diversity of art and artists on display at the NGA over time.&lt;/p&gt;
 &lt;p&gt;We cleaned, reformatted, and created interactive visualizations on a website that provides access to our explore the diversity spatially and over time.&lt;/p&gt;
 &lt;p&gt;The provided data that tells us whether an object is on public view may not accurately reflect actual practice; our data does not include objects that have been in public view in any rooms currently under revonvation. Any objects that were on public view for at least one day of the chosen month were given equal weight in determining these distributions. Artist gender identities were identified from the Union List of Artist Names (provided by the J. Paul Getty Trust), inferred based on the first name using historical data records, or manually determined by an art historian. These identities may not accurately express the artist&amp;rsquo;s self-identity. Artist race/ethnicities identities were inferred using nationalities and group identities listed in the Union List of Artist Names (provided by the J. Paul Getty Trust), and the publicly available National Gallery of Art nationalities, which reflect citizenship. These nationalities and identities were grouped using the U.S. Census Bureau definitions of White, Hispanic, Black, Asian, and Native and they may not accurately express the artist&amp;rsquo;s self-identity.&lt;/p&gt;
@@ -640,9 +640,9 @@
     
     <item>
       <title>Prenatal Phthalate Exposure and Childhood Growth</title>
-      <link>bcheggeseth.github.io/project/prenatalphthalate/</link>
+      <link>https://bcheggeseth.github.io/project/prenatalphthalate/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/prenatalphthalate/</guid>
+      <guid>https://bcheggeseth.github.io/project/prenatalphthalate/</guid>
       <description>&lt;p&gt;In collaboration with epidemiologists at the Center for Environmental Research and Children’s Health in Berkeley, CA, I applied three advanced statistical methods to estimate the association between prenatal exposure of 11 phthalate metabolites and body mass index trajectories. I used generalized additive models, growth mixture models, and functional principal component analysis with regression trees and random forests. The novel contribution in this paper is the additional flexibility in the methods to allow for non-linear relationships between exposures and trajectories and the direct model comparison.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -653,9 +653,9 @@
     
     <item>
       <title>Longitudinal Regression Trees</title>
-      <link>bcheggeseth.github.io/project/splinetree/</link>
+      <link>https://bcheggeseth.github.io/project/splinetree/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/splinetree/</guid>
+      <guid>https://bcheggeseth.github.io/project/splinetree/</guid>
       <description>&lt;p&gt;Work with Anna Neufeld (initially as an Honors project) to review and compare existing methods to create a regression tree based on longitudinal quantitative outcome data and then improving the methodology to be able to detect additive and interactive relationships between baseline covariates and growth patterns.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -666,9 +666,9 @@
     
     <item>
       <title>Vertically shifted Growth Mixture Models</title>
-      <link>bcheggeseth.github.io/project/verticalshifting/</link>
+      <link>https://bcheggeseth.github.io/project/verticalshifting/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/verticalshifting/</guid>
+      <guid>https://bcheggeseth.github.io/project/verticalshifting/</guid>
       <description>&lt;p&gt;Coming out of my dissertation work, I developed a methodological study of mixture models for longitudinal data and their ability to detect growth patterns. In this paper, I showed that the default model assumptions do not necessarily create groups that are homogenous in terms of growth pattern over time as they seek to explain the most variation, whether it be from the overall level or pattern over time. I suggested a pre-processing step that removes the outcome level to explicitly focus on the shape.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -679,9 +679,9 @@
     
     <item>
       <title>Cricket Courtship</title>
-      <link>bcheggeseth.github.io/project/crickets/</link>
+      <link>https://bcheggeseth.github.io/project/crickets/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/crickets/</guid>
+      <guid>https://bcheggeseth.github.io/project/crickets/</guid>
       <description>&lt;p&gt;After consulting for a Williams undergraduate student working on a genetics thesis, I became involved in the project to determine the association between the chemical “smell” of crickets and the mating between a pair of crickets. In addition to dealing with the dependence of repeated measures, I used survival analysis techniques to analyze the time until mating commenced.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -692,9 +692,9 @@
     
     <item>
       <title>Updating Implicit Impressions</title>
-      <link>bcheggeseth.github.io/project/misattribution/</link>
+      <link>https://bcheggeseth.github.io/project/misattribution/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/project/misattribution/</guid>
+      <guid>https://bcheggeseth.github.io/project/misattribution/</guid>
       <description>&lt;p&gt;Mann, Cone, and Ferguson are social psychologists who study explicit and implicit reactions to new information. There have been questions in the scholarly community about whether the main tool that they use to measure implicit reactions, the Affect Misattribution Procedure (AMP), actually measures unintended responses. My contribution to this study was the statistical analysis and interpretation of their analysis. I collaborated with them to analyze repeated measures data from 8 new studies and as well as reanalyze data from their past published studies.  The main statistical concern was whether their previous conclusions were still valid despite the fact the distributions of the observations were bimodal. Thus, I designed a series of analyses that included sensitivity analyses to test the robustness of their conclusions to perturbations in the observed data distribution and pooled analysis across similar experiments.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -706,9 +706,9 @@
     
     <item>
       <title></title>
-      <link>bcheggeseth.github.io/admin/config.yml</link>
+      <link>https://bcheggeseth.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/admin/config.yml</guid>
+      <guid>https://bcheggeseth.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

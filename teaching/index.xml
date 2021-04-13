@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teaching | Brianna C. Heggeseth</title>
-    <link>bcheggeseth.github.io/teaching/</link>
-      <atom:link href="bcheggeseth.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <title>Teaching | Brianna Heggeseth</title>
+    <link>https://bcheggeseth.github.io/teaching/</link>
+      <atom:link href="https://bcheggeseth.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
       <title>Teaching</title>
-      <link>bcheggeseth.github.io/teaching/</link>
+      <link>https://bcheggeseth.github.io/teaching/</link>
     </image>
     
     <item>
       <title>Data Sets</title>
-      <link>bcheggeseth.github.io/teaching/datasets/</link>
+      <link>https://bcheggeseth.github.io/teaching/datasets/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/teaching/datasets/</guid>
+      <guid>https://bcheggeseth.github.io/teaching/datasets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching Experience</title>
-      <link>bcheggeseth.github.io/teaching/teachingexperience/</link>
+      <link>https://bcheggeseth.github.io/teaching/teachingexperience/</link>
       <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/teaching/teachingexperience/</guid>
+      <guid>https://bcheggeseth.github.io/teaching/teachingexperience/</guid>
       <description>&lt;p&gt;Prior to working at Macalester College, I taught courses at Williams College and University of California Berkeley.&lt;/p&gt;
 &lt;h2 id=&#34;williams-college&#34;&gt;Williams College&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;STAT 101: Elementary Statistics &amp;amp; Data Analysis&lt;/strong&gt;&lt;/p&gt;
