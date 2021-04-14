@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arts | Brianna C. Heggeseth</title>
+    <link>https://bcheggeseth.github.io/tag/arts/</link>
+      <atom:link href="https://bcheggeseth.github.io/tag/arts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
+      <title>Arts</title>
+      <link>https://bcheggeseth.github.io/tag/arts/</link>
+    </image>
+    
+    <item>
+      <title>Kaggle Public Data Repository</title>
+      <link>https://bcheggeseth.github.io/dataset/kaggle/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/dataset/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mia Collections Data</title>
+      <link>https://bcheggeseth.github.io/dataset/mia/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/dataset/mia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCI Machine Learning Repository</title>
+      <link>https://bcheggeseth.github.io/dataset/ucirepo/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/dataset/ucirepo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

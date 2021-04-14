@@ -17,10 +17,27 @@
       <link>https://bcheggeseth.github.io/project/prenatalpfas/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://bcheggeseth.github.io/project/prenatalpfas/</guid>
-      <description>&lt;p&gt;In 2016, Dr. Megan Romano of Dartmouth University contacted me regarding my expertise in longitudinal methods for childhood growth. I helped her write a grant proposal and started working as a statistical consulting on this approved grant that seeks to estimate the relationship between exposure to PFASs and childhood adiposity growth over time. I wrote the analysis plan, implemented it, and we are writing up the conculsions.&lt;/p&gt;
+      <description>&lt;p&gt;In 2016, &lt;a href=&#34;https://geiselmed.dartmouth.edu/epidemiology/people/faculty/megan-romano/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Megan Romano&lt;/a&gt; of Dartmouth University contacted me regarding my expertise in longitudinal methods for childhood growth. I helped her write a grant proposal and started working as a statistical consulting on this approved grant that seeks to estimate the relationship between prenatal exposure to PFAS and childhood adiposity growth over time. I wrote the analysis plan, implemented it, and we are writing up the conclusions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;In Progress&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clustering Longitudinal Categorical Data</title>
+      <link>https://bcheggeseth.github.io/project/clusterlongcat/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/project/clusterlongcat/</guid>
+      <description>&lt;p&gt;Work with &lt;a href=&#34;https://ellen-graham.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ellen Graham&lt;/a&gt; &amp;lsquo;21, &lt;a href=&#34;https://www.linkedin.com/in/zuofu-huang-588341180/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zuofu Huang&lt;/a&gt; &amp;lsquo;21, and &lt;a href=&#34;https://www.linkedin.com/in/kgiangnguyen/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kieu-Giang Nguyen&lt;/a&gt; &amp;lsquo;20 for a summer research project in Summer 2019. This project focused on comparing methods for clustering longitudinal categorical data. The team created a tool for completing cluster analysis on such data using a variety of appropriate clustering methods. For each method, it produces visualizations and statistics to help interpret the clustering assignments. We also allow for comparing different clusters and producing clustering comparison statistics such as the adjusted Rand index. We include two data sets, but users could upload and analyze datasets of their choosing.&lt;/p&gt;
+&lt;p&gt;The original motivating data set for this project was data on healthcare utilization for cancer patients who moved between categories (Home, Hospital, Hospice, Nursing Facility). The goal was to see if we could detect similarities between patients based solely on their patterns of care.&lt;/p&gt;
+&lt;p&gt;This structure also appears in sleep stage data, like those produced by wearable technologies such as FitBit. If wore at night, an wearer is categorized into Wake, Light, Deep, or REM sleep when the device assumes sleep. Kieu-Giang Nguyen continued this project by analyzing this data in an Honor&amp;rsquo;s Thesis.&lt;/p&gt;
+&lt;p&gt;A future continuation of this work is to explore longitudinal patterns of categories in art location and purposes (see &lt;a href=&#34;https://bcheggeseth.github.io/project/miacollaboration/&#34;&gt;Mia Collaboration&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Products&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://heggesethlab.shinyapps.io/ShinyApp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shiny App&lt;/a&gt; from Summer 2019 team is publicly available to compare methods.&lt;/li&gt;
+&lt;li&gt;Nguyen, Kieu-Giang,  (2020). &lt;a href=&#34;https://digitalcommons.macalester.edu/mathcs_honors/50/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Good Night?: Clustering Sleep Stage Data&amp;rdquo;&lt;/a&gt; Mathematics, Statistics, and Computer Science Honors Projects. 50.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
