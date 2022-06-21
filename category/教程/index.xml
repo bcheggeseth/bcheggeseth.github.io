@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教程 | Brianna C. Heggeseth</title>
-    <link>bcheggeseth.github.io/category/%E6%95%99%E7%A8%8B/</link>
-      <atom:link href="bcheggeseth.github.io/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bcheggeseth.github.io/category/%E6%95%99%E7%A8%8B/</link>
+      <atom:link href="https://bcheggeseth.github.io/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>教程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Brianna C. Heggeseth </copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
       <title>教程</title>
-      <link>bcheggeseth.github.io/category/%E6%95%99%E7%A8%8B/</link>
+      <link>https://bcheggeseth.github.io/category/%E6%95%99%E7%A8%8B/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>bcheggeseth.github.io/post/getting-started/</link>
+      <link>https://bcheggeseth.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>bcheggeseth.github.io/post/getting-started/</guid>
+      <guid>https://bcheggeseth.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

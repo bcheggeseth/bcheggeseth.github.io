@@ -5,7 +5,7 @@
     <link>https://bcheggeseth.github.io/tag/methodology/</link>
       <atom:link href="https://bcheggeseth.github.io/tag/methodology/index.xml" rel="self" type="application/rss+xml" />
     <description>Methodology</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Brianna C. Heggeseth </copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
       <title>Methodology</title>
@@ -52,6 +52,36 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12/issue-1/How-Gaussian-mixture-models-might-miss-detecting-factors-that-impact/10.1214/17-AOAS1066.short&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Heggeseth, B. C.&lt;/strong&gt; and Jewell, N. P. (2018), &amp;ldquo;How Gaussian mixture models might miss detecting factors that impact growth patterns,&amp;rdquo; &lt;em&gt;Annals of Applied Statistics&lt;/em&gt;, 12(1): 222-245.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Regression Trees</title>
+      <link>https://bcheggeseth.github.io/project/misspecifymixture/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/project/misspecifymixture/</guid>
+      <description>&lt;p&gt;Work with Anna Neufeld (initially as an Honors project) to review and compare existing methods to create a regression tree based on longitudinal quantitative outcome data and then improving the methodology to be able to detect additive and interactive relationships between baseline covariates and growth patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deliverable&lt;/strong&gt;: &lt;a href=&#34;https://anna-neufeld.github.io/splinetree/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;splinetree&lt;/a&gt; R package is available on CRAN to implement this work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Regression Trees</title>
+      <link>https://bcheggeseth.github.io/project/paritybmiwomen/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/project/paritybmiwomen/</guid>
+      <description>&lt;p&gt;Work with Anna Neufeld (initially as an Honors project) to review and compare existing methods to create a regression tree based on longitudinal quantitative outcome data and then improving the methodology to be able to detect additive and interactive relationships between baseline covariates and growth patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deliverable&lt;/strong&gt;: &lt;a href=&#34;https://anna-neufeld.github.io/splinetree/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;splinetree&lt;/a&gt; R package is available on CRAN to implement this work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Regression Trees</title>
+      <link>https://bcheggeseth.github.io/project/prenatalddt/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/project/prenatalddt/</guid>
+      <description>&lt;p&gt;Work with Anna Neufeld (initially as an Honors project) to review and compare existing methods to create a regression tree based on longitudinal quantitative outcome data and then improving the methodology to be able to detect additive and interactive relationships between baseline covariates and growth patterns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deliverable&lt;/strong&gt;: &lt;a href=&#34;https://anna-neufeld.github.io/splinetree/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;splinetree&lt;/a&gt; R package is available on CRAN to implement this work.&lt;/p&gt;
 </description>
     </item>
     

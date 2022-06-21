@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R | Brianna C. Heggeseth</title>
-    <link>bcheggeseth.github.io/category/r/</link>
-      <atom:link href="bcheggeseth.github.io/category/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://bcheggeseth.github.io/category/r/</link>
+      <atom:link href="https://bcheggeseth.github.io/category/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Brianna C. Heggeseth </copyright><lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     <image>
-      <url>/bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
+      <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
       <title>R</title>
-      <link>bcheggeseth.github.io/category/r/</link>
+      <link>https://bcheggeseth.github.io/category/r/</link>
     </image>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>
-&lt;script src=&#34;bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -54,7 +54,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://bcheggeseth.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;

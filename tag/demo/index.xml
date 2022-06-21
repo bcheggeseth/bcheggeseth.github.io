@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Brianna C. Heggeseth</title>
+    <link>https://bcheggeseth.github.io/tag/demo/</link>
+      <atom:link href="https://bcheggeseth.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Brianna C. Heggeseth </copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo</title>
+      <link>https://bcheggeseth.github.io/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>External Project</title>
+      <link>https://bcheggeseth.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

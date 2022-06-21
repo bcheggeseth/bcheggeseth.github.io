@@ -5,7 +5,7 @@
     <link>https://bcheggeseth.github.io/inclusion/</link>
       <atom:link href="https://bcheggeseth.github.io/inclusion/index.xml" rel="self" type="application/rss+xml" />
     <description>Inclusive &amp; Equitable Teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Brianna C. Heggeseth </copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Brianna C. Heggeseth </copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bcheggeseth.github.io/media/icon_hu57cb00c344750d07111e480b68a9d566_369349_512x512_fill_lanczos_center_2.png</url>
       <title>Inclusive &amp; Equitable Teaching</title>
@@ -487,6 +487,77 @@
 &lt;h4 id=&#34;neurodiversity--universal-design&#34;&gt;Neurodiversity &amp;amp; Universal Design&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.penguinrandomhouse.com/books/310415/neurotribes-by-steve-silberman-foreword-by-oliver-sacks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neurotribes: The Legacy of Autism and the Future of Neurodiversity&lt;/a&gt; by Steve Silberman&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.hepg.org/hep-home/books/universal-design-in-higher-education&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universal Design in Higher Education, From Principles to Practice&lt;/a&gt; by Sheryl E. Burgstahler&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>📊 Stat 155</title>
+      <link>https://bcheggeseth.github.io/inclusion/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://bcheggeseth.github.io/inclusion/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-you-will-learn&#34;&gt;What you will learn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#program-overview&#34;&gt;Program overview&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#courses-in-this-program&#34;&gt;Courses in this program&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#meet-your-instructor&#34;&gt;Meet your instructor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#faqs&#34;&gt;FAQs&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;what-you-will-learn&#34;&gt;What you will learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fundamental &lt;mark&gt;Python programming skills&lt;/mark&gt;&lt;/li&gt;
+&lt;li&gt;&lt;mark&gt;Statistical concepts&lt;/mark&gt; and how to apply them in practice&lt;/li&gt;
+&lt;li&gt;Gain experience with the &lt;mark&gt;Scikit&lt;/mark&gt;, including data visualization with &lt;mark&gt;Plotly&lt;/mark&gt; and data wrangling with &lt;mark&gt;Pandas&lt;/mark&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program-overview&#34;&gt;Program overview&lt;/h2&gt;
+&lt;p&gt;The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.&lt;/p&gt;
+&lt;h2 id=&#34;courses-in-this-program&#34;&gt;Courses in this program&lt;/h2&gt;
+
+
+
+&lt;h2 id=&#34;meet-your-instructor&#34;&gt;Meet your instructor&lt;/h2&gt;
+&lt;a href=&#34;&#34;&gt;admin&lt;/a&gt;
+&lt;h2 id=&#34;faqs&#34;&gt;FAQs&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-9&#34;&gt;
+  &lt;summary&gt;Are there prerequisites?&lt;/summary&gt;
+  &lt;p&gt;There are no prerequisites for the first course.&lt;/p&gt;
+&lt;/details&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-10&#34;&gt;
+  &lt;summary&gt;How often do the courses run?&lt;/summary&gt;
+  &lt;p&gt;Continuously, at your own pace.&lt;/p&gt;
+&lt;/details&gt;
+&lt;ul class=&#34;cta-group&#34;&gt;
+  
+  &lt;li&gt;
+    &lt;a href=&#34;python&#34;  class=&#34;btn btn-primary px-3 py-3&#34;&gt;Begin the course&lt;/a&gt;
+  &lt;/li&gt;
+  
+  
+&lt;/ul&gt;
+
 </description>
     </item>
     
