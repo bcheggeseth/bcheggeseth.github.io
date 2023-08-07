@@ -1,0 +1,17 @@
+---
+title: "Datasets and Stories"
+image: featured.jpg
+description: "This is a list of articles with datasets curated for statistics and data science education."
+categories:
+  - Social Science
+  - Science
+  - CSV
+  - Intro
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+
+[Datasets and Stories](https://www.tandfonline.com/action/doSearch?AllField=datasets+and+stories&SeriesKey=ujse20&startPage=0&pageSize=10&openAccess=18)
+

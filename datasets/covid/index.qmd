@@ -1,0 +1,14 @@
+---
+title: "Johns Hopkins COVID-19 Dashboard Data"
+description: "A data repository for the Johns Hopkins COVID-19 Dashboards"
+image: featured.jpg
+categories:
+  - Science
+  - Intro
+  - Upper Level
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+<https://github.com/CSSEGISandData/COVID-19>

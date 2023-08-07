@@ -1,0 +1,77 @@
+---
+title: ""
+about:
+  id: intro-heading
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  image: images/Heggeseth.jpg
+  links:
+    - icon: envelope
+      href: mailto:bheggese@macalester.edu
+    - icon: twitter
+      href: https://twitter.com/bcheggeseth
+    - icon: github
+      href: https://github.com/bcheggeseth
+---
+
+:::{#intro-heading}
+## Brianna Heggeseth
+
+<a href="https://namedrop.io/briannaheggeseth" target="_blank" rel="noopener">Pronunciation</a> <br>
+she/her/hers 
+
+Statistician and data scientist <br>
+<a href="https://www.macalester.edu/mscs/" target="_blank" rel="noopener">MSCS Department</a> @ <a href="https://www.macalester.edu/" target="_blank" rel="noopener">Macalester College</a>
+
+### Experience
+
+Associate Professor of Statistics<br>
+2020-present |  Macalester College
+
+Assistant Professor of Statistics<br>
+2018-2020 |  Macalester College
+
+Assistant Professor of Statistics<br> 
+2013-2018 |  Williams College
+
+### Education
+
+PhD in Statistics<br>
+2013 | University of California Berkeley
+
+BA in Math with Statistics concentration<br>
+2008 | Saint Olaf College
+:::
+
+### Biography
+
+My primary research interests lie broadly in the study of statistical models and machine learning algorithms and their application in practice. Recently, I have collaborated with colleagues in social psychology, environmental epidemiology, and genetic biology. My statistical methodology work has focused on uncovering group structure and patterns in longitudinal data through clustering analysis techniques, probability models, as well as data mining approaches.
+
+As a teacher, my goal is to empower students to be curious and question the world around them, to construct a convincing argument and make decisions in the midst of uncertainty, tackle and solve difficult problems, and to take ownership of their learning and their life. I strive to design my courses and <a href="/inclusion/">cultivate inclusive and equitable classroom dynamics</a> so that every student, no matter their background or identity, can be empowered to succeed and thrive in our world.
+
+The best part of my job is working with students! If you are a student (or educator) who would like to chat about opportunities in the field of statistics, biostatistics, or data science, and why I love working in it, please get in touch!
+
+<i class='bi-download'></i> Download my <a href="https://drive.google.com/file/d/1YRUHdXXgEBFzN886aU65fDeDUsIB1yK6/view?usp=sharing" target="_blank">CV</a>.
+
+### Personal
+
+I'm from North Dakota, ya, you betcha. Fun Fact: Heggeset is the name of a farm in Norway where my husband’s family came from. I have a bit of Norwegian in me as well (from near Stavanger) so we carry on some of those cultural traditions and make <a href="https://cooking.nytimes.com/recipes/1016973-lefse?mcubz=3" target="_blank" rel="noopener">lefse</a> at home every Christmas time.
+
+I love cooking and eating good food. I maintained a <a href="http://olesinhippieland.blogspot.com/" target="_blank" rel="noopener">cooking blog</a> for family and friends that describe our adventures making food from scratch during graduate school in Berkeley. My husband and I tried to make our own bread, pasta, and even beer. With kids, we don't blog about our food adventures anymore.
+
+I have played the violin since I was 7 years old and enjoy finding opportunities to play in the community. I met my husband in the <a href="https://www.youtube.com/watch?v=jc9IT71XZzQ" target="_blank" rel="noopener">St. Olaf Orchestra</a> (we call it "Orchie Love").
+
+I enjoy cooking, baking, swimming, and running.
+
+### Get in Touch
+
+**Email**: <a href='mailto:bheggese@macalester.edu'>bheggese@macalester.edu</a>
+
+**Office**: Olin-Rice Science Center, Room 125
+
+**Address**: 1600 Grand Avenue, Saint Paul, MN 55105
+
+**Phone**: 651-696-6448
+
+

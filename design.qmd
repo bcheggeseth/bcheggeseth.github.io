@@ -1,0 +1,140 @@
+---
+title: "Inclusive Course Design"
+---
+
+## Universal Design
+
+Create a learning environment where everyone can learn without special concessions or treatment, where accessibility and flexibility is built into the course structure and design
+
+### Course Materials
+
+-   **Accessible**
+    -   Closed captioning (useful tool: [Otter.ai](https://otter.ai/))
+    -   Consider accessible format for screen readers
+    -   Consider the cost of textbook/materials
+-   **Clear**
+    -   Clarify vocabulary, acronyms, symbols
+    -   Explicit connect new information to background knowledge
+-   **Multimodal**
+    -   Provide multiple modalities for students to learn (visual, auditory, active)
+        -   Visual: Readings (printed and online reading), class notes, projected images/illustrations
+        -   Auditory: Discussions, short tutorials/lectures (recorded and/or live)
+        -   Active: Summarize context, coding, writing
+
+### Engagement
+
+-   **Authentic**
+    -   Activities should be meaningful & appropriate (not feel like "busy work")
+    -   Should use and apply knowledge, not just recall it
+    -   Value of activity extends beyond the classroom
+-   **Intentional**
+    -   Provide collaborative structure to help encourage engagement
+    -   Integrate self-reflection about barriers to engagement
+-   **Multimodal**
+    -   Allow students to participate in multiple ways (e.g. code, discuss, describe)
+    -   Provide multiple ways to ask questions
+
+### Assessment
+
+-   Consider **flexibility** in time to accommodate extended time
+-   Use **rubrics** to communicate expectations and provide consistent feedback
+-   Reflect on your **goals** for the assessment and consider alternative formats (consider alternatives to time exams)
+
+## Real Data
+
+As Rouncefield (1995) asserts, "\[S\]tudents can ask real questions about real-life situations. These in turn raise ethical and moral questions, which motivate students' learning, making the subject matter more relevant and interesting."
+
+-   If possible, **choose data** that **does not reinforce negative stereotypes** about or systematically **exclude/erase** marginalized groups (e.g. binary gender, race and violence, etc.)
+    -   If not, discuss issues with social identity categories, how data can perpetuate social injustices, and data justice (see [Data Feminism](https://data-feminism.mitpress.mit.edu/))
+-   Rethink what is "common knowledge" (cultural) in terms of data context
+    -   Provide the necessary data context when presenting a new data set
+-   Along with real data, discuss **data ethics** and the **societal consequences** of data and modeling
+    -   Resources: [Movie: Coded Bias (currently on Netflix)](https://www.codedbias.com/), [Book: Weapons of Math Destruction](https://www.weaponsofmathdestructionbook.com), [Book: Hello World: Being Human in the Age of Algorithms,](https://wwnorton.com/books/Hello-World/), [Book: Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/)
+
+Chance recently had three special issues on [human rights](https://www.tandfonline.com/toc/ucha20/31/1?nav=tocList), [climate change](https://www.tandfonline.com/toc/ucha20/30/4?nav=tocList), and [modern slavery](https://www.tandfonline.com/toc/ucha20/30/3?nav=tocList) that are ripe for examples to use in class.
+
+## Active Learning
+
+Active learning strategies
+
+-   "involve students in doing things and thinking about the things they are doing" (Bonwell & Eisen, 1991, p. 2).
+
+-   require "students to do meaningful learning activities and think about what they are doing" (Prince, 2004, p. 1).
+
+-   "cognitively engage students in building understanding at the highest levels of Bloom's taxonomy" i.e., critical thinking skills (National Academies, 2017, p. 3-3).
+
+**Active learning provides multiple modes of engagement to support all students' learning**
+
+### Active Learning Strategies
+
+-   Entry/exit tickets or minute papers
+
+-   Think-Pair-Share
+
+-   Case studies or problem-based learning (guided problem-solving activity)
+
+-   Interactive demonstration
+
+-   Gallery walk stations to engage in topic
+
+-   [Jigsaw discussions](https://sites.lsa.umich.edu/inclusive-teaching/jigsaw-collaborative-discussion-method/)
+
+-   Team-based inquiry-based (data analysis or simulation) activity
+
+## Collaboration & Group Structure
+
+If collaboration is a learning outcome for your class, I recommend frequent structured small (3-4 person) group work.
+
+-   Working in a group is not trivial and is a skill that requires practice.
+-   Provide structure to prepare students to be part of a team
+
+### Intentional group creation
+
+-   I use random shuffling for short-term groups
+-   I am more intention when creating or helping to create long-term groups
+    -   Avoid isolating minoritized folks in long-term groups
+-   In any case, I provide a way to "avoid" another student if they feel unsafe (a barrier to learning)
+
+### Group Roles
+
+Explain (and maybe assign) roles that facilitate collaboration
+
+-   [Process Oriented Guided Inquiry Learning (POGIL)](https://pogil.org/uploads/attachments/cjay281cc08qzw0x4ha9nt7wd-implementationguide.pdf) group roles
+    -   Facilitator/Project Manager
+    -   Recorder
+    -   Presenter/Spokesperson
+    -   Reflector
+    -   Resource Manager
+    -   Encourager
+
+### Assess Process and Product
+
+-   If focus is only on the product, then it is much more efficient to divide labor and not collaborate.
+-   Student assessments should incorporate the how well they strengthen and stretch the knowledge of the entire group.
+
+## Diverse Representation
+
+-   Highlight diverse [Past and Present Statisticians](https://docs.google.com/spreadsheets/d/1176gCrz6JcqFS8iCs_VCdIKLB9r8VoBGjFzPDRURHUA/edit#gid=0)
+
+-   Talk about the history of white supremacy in Statistics
+
+    -   [Eugenics](https://nautil.us/issue/92/frontiers/how-eugenics-shaped-statistics)
+    -   [RA Fisher](https://www.newstatesman.com/international/science-tech/2020/07/ra-fisher-and-science-hatred)
+
+## Guides & Research
+
+[Universal Design of Instruction Resources](https://www.washington.edu/doit/programs/center-universal-design-education/postsecondary/universal-design-instruction) (curated by U of Washington)
+
+[LBGT+ resources for statisticians and data scientists](https://www.significancemagazine.com/culture/624-lgbt-resources-for-statisticians-and-data-scientists)
+
+[Brown University Inclusive & Active Teaching Resources](https://www.brown.edu/sheridan/inclusive-teaching-through-active-learning#:~:text=Active%20learning%20strategies%20are%20also,2014%3B%20Hake%2C%201998).)
+
+Freeman, S. et al. (2014) "Active learning boosts performance in STEM courses" Proceedings of the National Academy of Sciences, 111 (23) 8410-8415. https://doi.org/10.1073/pnas.1319030111
+
+Wieman, C.E. (2014) "Large-scale comparison of STEM teaching methods" Proceedings of the National Academy of Sciences, 111 (23) 8319-8320; https://doi.org/10.1073/pnas.1407304111
+
+Snyder, J.J. et al. (2016) "Peer-Led Team Learning Helps Minority Students Succeed." PLoS Biol 14(3): e1002398. https://doi.org/10.1371/journal.pbio.1002398
+
+Johnson, D.W., Johnson, R.T., and Smith, K.A. (2014). Cooperative learning: Improving university instruction by basing practice on validated theory. Journal on Excellence in College Teaching 25, 85-118.
+
+Kogan, M. & Laursen, S.L. (2014) "Assessing Long-Term Effects of Inquiry-Based Learning: A Case Study from College Mathematics" Innovative Higher Education 39: 183. https://doi.org/10.1007/s10755-013-9269-9

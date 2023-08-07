@@ -1,0 +1,17 @@
+---
+title: "UCI Machine Learning Repository"
+image: featured.jpg
+description: "A list of data sets that are used frequently to test new machine learning algorithms."
+categories:
+  - Social Science
+  - Arts
+  - Science
+  - Intro
+  - Upper Level
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+
+<https://archive.ics.uci.edu/datasets>

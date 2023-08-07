@@ -1,0 +1,100 @@
+---
+title: "Experience"
+---
+
+In each course, I strive to cultivate an [inclusive and equitable classroom](inclusion.html) and to ground the methodology in data ethics.
+
+## Macalester College
+
+**STAT/COMP 112: Intro to Data Science**
+
+-   Topics: Foundational Data Visualization \& Data Wrangling
+-   [[F22](https://bcheggeseth.github.io/112_fall_2022/)], [[S23](https://bcheggeseth.github.io/112_spring_2023/)], [[F23](https://bcheggeseth.github.io/112_fall_2023/)]
+
+**STAT 155: Intro to Statistical Modeling**
+
+-   Topics: Linear \& Logistic Regression Models, Uncertainty (hypothesis testing, confidence intervals)
+-   [Course notes](https://bcheggeseth.github.io/Stat155Notes/) in collaboration with Leslie Myint and Kelsey Grinde
+-   [F18], [F19], [F20]
+
+**STAT 253: Statistical Machine Learning**
+
+-   Topics: Regression, Classification, Clustering
+-   Textbook: An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani
+-   [[F21]](https://bcheggeseth.github.io/253_fall_2021/), [S24]
+
+**STAT 452: Correlated Data**
+
+-   Topics: Covariance/Correlation functions and matrices, time series (ARMA models), longitudinal (marginal and mixed effects models), spatial
+-   [Course notes](https://bcheggeseth.github.io/CorrelatedData/)
+-   [S19], [F19], [[S22](https://bcheggeseth.github.io/452_spring_2022/)],[[F23](https://bcheggeseth.github.io/452_fall_2023/)]
+
+**STAT 455: Mathematical Statistics**
+
+-   Topics: Properties of estimators, Estimation techniques, mathematical properties of uncertainty estimates
+-   [S19]
+
+**STAT/COMP 456: Projects in Data Science**
+
+-   Topics: Advanced DS skills, Data Science process
+-   [S23]
+
+
+
+## Williams College
+
+**STAT 101: Elementary Statistics & Data Analysis** 
+
+- Textbook: Intro Stats by De Veaux, Velleman, and Bock
+
+**STAT 201: Statistics & Data Analysis** 
+
+- Textbook: Stats: Data and Models by De Veaux, Velleman, and Bock
+
+**STAT 202: Introduction to Statistical Modeling** 
+
+- Textbook: Stat2 by Cannon et al.
+
+**STAT 10: Data Visualization** 
+
+- Winter Study course 
+- Textbooks: ggplot2 by Hadley Wickham, Interactive Data Visualization for the Web: An Introduction to Designing with D3 by Scott Murray
+
+**STAT 355: Multivariate Data Analysis** 
+
+- Textbook: An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani
+
+**STAT 346: Regression and Forecasting** 
+
+- Textbook: Applied Linear Regression Models by Kutner, Nachtsheim, and Neter
+
+**STAT 372: Longitudinal Data Analysis** 
+
+- Developed course materials
+
+**STAT 442: Data Mining and Computational Statistics** 
+
+- Textbooks: An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani and Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy by Cathy O'Neil
+
+## University of California Berkeley
+
+**STAT 2: Introduction to Statistics** 
+
+- Instructor 
+- Textbook: Statistics by Freedman, Pisani, and Purves
+
+**STAT 153: Introduction to Time Series** 
+
+- Graduate Student Instructor (Supervisor: Adityanand Guntuboyina) 
+- Textbook: The Analysis of Time Series, An Introduction by Chris Chatfield
+
+**STAT 153: Introduction to Time Series**
+
+**MATH 10: Methods of Mathematics** 
+
+- Graduate Student Assistant, Curriculum Development - Supervisors: Lior Patcher, Bernd Sturmfels
+
+**Exploration in Statistics** 
+
+- Graduate Student Instructor 
+- Supervisors: Deborah Nolan, Duncan Temple Lang, Mark Hansen, Steve Sain

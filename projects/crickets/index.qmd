@@ -1,0 +1,19 @@
+---
+title: Cricket Courtship
+description: Aurvival analysis on time to courtship in hybridizing field crickets
+image: featured.jpg
+image-alt: "Figure from Heggeseth, et al."
+categories:
+  - Applied Collaboration
+  - Correlated Data
+  - Genetics
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+After consulting for a Williams undergraduate student working on a genetics thesis, I became involved in the project to determine the association between the chemical "smell" of crickets and the mating between a pair of crickets. In addition to dealing with the dependence of repeated measures, I used survival analysis techniques to analyze the time until mating commenced.
+
+**Product**
+
+-   [**Heggeseth, B. C.**, Sim, D., Partida, L., and Maroja, L. (2020) "Influence of Female Cuticular Hydrocarbon (CHC) Profile on Male Courtship Behavior in Two Hybridizing Cricket Species Gryllus firmus and Gryllus pennsylvanicus." *BMC Evolutionary Biology* 20(21).](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-020-1587-9)

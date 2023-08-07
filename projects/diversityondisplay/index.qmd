@@ -1,0 +1,24 @@
+---
+title: Diversity on Display at the National Gallery
+description: Datathon at the National Gallery of art project to explore diversity of artists on display.
+image: featured.jpg
+image-alt: "Figure from Project Shiny App"
+categories:
+  - Applied Collaboration
+  - Art Museums
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+As a member of a team of applied mathematicians, statisticians, and art historians and curators, I was invited to participate in the [National Gallery of Art (NGA) Datathon](https://www.nga.gov/press/2019/datathon.html). Our task was to analyze, contextualize, and visualize its permanent collection data. Our team focused on the location history of each art object and try to highlight the diversity of art and artists on display at the NGA over time.
+
+We cleaned, reformatted, and created interactive visualizations on a website that provides access to our explore the diversity spatially and over time.
+
+The provided data that tells us whether an object is on public view may not accurately reflect actual practice; our data does not include objects that have been in public view in any rooms currently under revonvation. Any objects that were on public view for at least one day of the chosen month were given equal weight in determining these distributions. Artist gender identities were identified from the Union List of Artist Names (provided by the J. Paul Getty Trust), inferred based on the first name using historical data records, or manually determined by an art historian. These identities may not accurately express the artist's self-identity. Artist race/ethnicities identities were inferred using nationalities and group identities listed in the Union List of Artist Names (provided by the J. Paul Getty Trust), and the publicly available National Gallery of Art nationalities, which reflect citizenship. These nationalities and identities were grouped using the U.S. Census Bureau definitions of White, Hispanic, Black, Asian, and Native and they may not accurately express the artist's self-identity.
+
+**Products**
+
+-   Interactive Shiny App: <https://bheggeseth.shinyapps.io/DiversityOnDisplay/>
+
+-   Presentation: **Heggeseth, B. C.**, Topaz, C. M., Nelson, S., Klingenberg, B. (2019), "Diversity on Display." *NGA Datathon*. \[[Slides](https://www.nga.gov/content/dam/ngaweb/press/2019/datathon/team-4.pdf), [Video](https://www.youtube.com/watch?v=PGSNieRw_go)\]

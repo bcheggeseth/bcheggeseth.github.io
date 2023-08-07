@@ -1,0 +1,17 @@
+---
+title: "Kaggle Public Data Repository"
+image: featured.jpg
+description: "A list of tens of thousands of data sets that are used for machine learning (quality varies)."
+categories:
+  - Social Science
+  - Arts
+  - Science
+  - Intro
+  - Upper Level
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+
+<https://www.kaggle.com/datasets>

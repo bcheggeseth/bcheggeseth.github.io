@@ -1,0 +1,25 @@
+---
+title: "Diversity of artists in major U.S. museums"
+image: featured.jpg
+image-alt: "Screenshot of Shiny App."
+categories:
+  - Applied Collaboration
+  - Art Museums
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+In collaboration with a team of applied mathematicians, statisticians, and art historians and curators, I used data science and machine learning tools to estimate the diversity of artists at 18 U.S. art museums. The project goal was to make inferences about artist characteristics to summarize the diversity of a museum's collection.
+
+We performed data collection by web scraping information about the collections at the chosen art museums, designed the sampling method to create a subset of artists to focus on, and created a website that provides access to our final data set as well as graphical summaries for broad access to our results.
+
+This work has been covered in international news outlets including the San Francisco Chronicle, Smithsonian Magazine, The Guardian (UK), Minnesota Public Radio, and MIT Technology Review.
+
+**Products**
+
+-   [Topaz, C. M., Klingenberg, B., Turek, D., **Heggeseth, B. C.**, Harris, P. E., Blackwood, J. C., Chavoya, C. O., Nelson, S., and Murphy, K. M. (2019), "Diversity of artists in major U.S. museums." *PLoS ONE*, 14(3): e0212852.](https://www.google.com/url?q=https%3A%2F%2Fjournals.plos.org%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0212852&sa=D&sntz=1&usg=AFQjCNHXCdOhW1tUkBxxHbACNN7g9verwQ)
+
+-   Interactive Shiny App: <https://artofstat.shinyapps.io/ArtistDiversity/>
+
+-   [**Heggeseth, B. C.** and Topaz, C. M. (2020), "When Data Meets Diversity." *SIAMS News*.](https://sinews.siam.org/Details-Page/when-data-meets-diversity?fbclid=IwAR0la1-qIIdKrNdiN-qNSh6DaZnCwfinDZ-kSRhJOxVLCnFiu9DxVnwj3k8)
