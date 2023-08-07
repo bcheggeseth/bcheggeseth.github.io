@@ -1,0 +1,71 @@
+{
+  "awareness.qmd": {
+    "awareness.html": "13849eca"
+  },
+  "climate.qmd": {
+    "climate.html": "1e56c504"
+  },
+  "datasets.qmd": {
+    "datasets.html": "57028bb3"
+  },
+  "datasets/covid/index.qmd": {
+    "index.html": "4321249b"
+  },
+  "datasets/datastories/index.qmd": {
+    "index.html": "604498ea"
+  },
+  "datasets/ipums/index.qmd": {
+    "index.html": "2764c0fc"
+  },
+  "datasets/kaggle/index.qmd": {
+    "index.html": "2d961eb4"
+  },
+  "datasets/mia/index.qmd": {
+    "index.html": "8f3575ee"
+  },
+  "datasets/nature/index.qmd": {
+    "index.html": "87af53a5"
+  },
+  "datasets/opendata/index.qmd": {
+    "index.html": "3f5d29e0"
+  },
+  "datasets/ucirepo/index.qmd": {
+    "index.html": "a5085fc7"
+  },
+  "datasets/undata/index.qmd": {
+    "index.html": "c106c693"
+  },
+  "design.qmd": {
+    "design.html": "be8f8a27"
+  },
+  "inclusion.qmd": {
+    "inclusion.html": "cb832b74"
+  },
+  "index.qmd": {
+    "index.html": "3a858fb5"
+  },
+  "projects.qmd": {
+    "projects.html": "38e81593"
+  },
+  "projects/artistdiversity/index.qmd": {
+    "index.html": "1fdf80ab"
+  },
+  "projects/clusterlongcat/index.qmd": {
+    "index.html": "687e5974"
+  },
+  "projects/crickets/index.qmd": {
+    "index.html": "7c706559"
+  },
+  "projects/diversityondisplay/index.qmd": {
+    "index.html": "7d708098"
+  },
+  "projects/kidneyfunction/index.qmd": {
+    "index.html": "91281662"
+  },
+  "projects/miacollaboration/index.qmd": {
+    "index.html": "2ae6ef67"
+  },
+  "teaching.qmd": {
+    "teaching.html": "2939ddc8"
+  }
+}
