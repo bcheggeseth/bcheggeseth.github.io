@@ -1,0 +1,29 @@
+---
+title: Associations with Early Kidney Injuries
+description: Methodology research to detect exposure associations with early kidney injuries
+image: featured.jpg
+image-alt: "Photo by Lon&Queta on flickr, https://www.flickr.com/photos/lonqueta/3680348838"
+categories:
+  - Applied Collaboration
+  - Correlated Data
+  - Environmental Epidemiology
+  - Ongoing
+about: 
+  template: solana
+---
+
+In 2021, my PhD advisor, Nicholas Jewell, put me in contact with [Dr. Ben Caplin](https://iris.ucl.ac.uk/iris/browse/profile?upi=BCAPL88) of University College of London and [Dr. Marvin Gonzalez-Quiroz](https://www.renalfellow.org/2019/02/08/my-journey-from-nicaragua-to-london-to-study-ckdu-5-lessons-learned/) and their larger [DEGREE study team](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5210224/) to help them study the potential causes of chronic kidney disease of unexplained cause (CKDu) among young, apparently healthy individuals in Nicaragua.
+
+For more information about the epidemic of CKDu in Central America, see the [Cycle of Death video](https://laislanetwork.org/type/video/page/2/) created by the team members and [a Lancet article](https://www.thelancet.com/pdfs/journals/langlo/PIIS2214-109X(14)70217-7.pdf) on the topic.
+
+The research team have been collecting longitudinal data on cohorts of young, healthy people in Nicaragua. After a two-year follow up, they [applied longitudinal growth mixture models (GMM) to detect any associations with declining eGFR patterns](https://jasn.asnjournals.org/content/29/8/2200.short). While this statistical approach worked well for a short follow up, it was not as applicable for detecting the underlying cause with a longer 5-year follow up since individuals may start to decline at any point during the study.
+
+In collaboration with nephrologists, epidemiologists, and statisticians, I came up with an alternative methodology (details forthcoming in publication) to detect an early kidney injury, the time at which an individual might switch from healthy kidney function to declining, unhealthy kidney function before being clinically diagnosed as having CKD.
+
+Macalester students, Alexander McCreight and Connie (Yixuan) Zhang, worked with me to implement this method to investigate potential exposures with early kidney injury. The first paper using this method is currently in review.
+
+With my students, we will compare the potential conclusions from the original GMM methodology with this alternative method.
+
+**Product**
+
+-   **In Progress**

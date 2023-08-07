@@ -264,5 +264,47 @@
     "title": "Experience",
     "section": "University of California Berkeley",
     "text": "University of California Berkeley\nSTAT 2: Introduction to Statistics\n\nInstructor\nTextbook: Statistics by Freedman, Pisani, and Purves\n\nSTAT 153: Introduction to Time Series\n\nGraduate Student Instructor (Supervisor: Adityanand Guntuboyina)\nTextbook: The Analysis of Time Series, An Introduction by Chris Chatfield\n\nSTAT 153: Introduction to Time Series\nMATH 10: Methods of Mathematics\n\nGraduate Student Assistant, Curriculum Development\nSupervisors: Lior Patcher, Bernd Sturmfels\n\nExploration in Statistics\n\nGraduate Student Instructor\nSupervisors: Deborah Nolan, Duncan Temple Lang, Mark Hansen, Steve Sain"
+  },
+  {
+    "objectID": "datasets/mia/index.html",
+    "href": "datasets/mia/index.html",
+    "title": "Mia Collection Data",
+    "section": "",
+    "text": "https://github.com/artsmia/collection"
+  },
+  {
+    "objectID": "datasets/kaggle/index.html",
+    "href": "datasets/kaggle/index.html",
+    "title": "Kaggle Public Data Repository",
+    "section": "",
+    "text": "https://www.kaggle.com/datasets"
+  },
+  {
+    "objectID": "datasets/nature/index.html",
+    "href": "datasets/nature/index.html",
+    "title": "Nature Data Repositories",
+    "section": "",
+    "text": "https://www.nature.com/sdata/policies/repositories"
+  },
+  {
+    "objectID": "datasets/opendata/index.html",
+    "href": "datasets/opendata/index.html",
+    "title": "OpenData",
+    "section": "",
+    "text": "https://www.data.gov/open-gov/"
+  },
+  {
+    "objectID": "datasets/ucirepo/index.html",
+    "href": "datasets/ucirepo/index.html",
+    "title": "UCI Machine Learning Repository",
+    "section": "",
+    "text": "https://archive.ics.uci.edu/datasets"
+  },
+  {
+    "objectID": "datasets/undata/index.html",
+    "href": "datasets/undata/index.html",
+    "title": "UN Data Catalog",
+    "section": "",
+    "text": "https://data.un.org/"
   }
 ]

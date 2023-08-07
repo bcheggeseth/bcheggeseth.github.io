@@ -1,0 +1,102 @@
+---
+title: "Cultivating an Inclusive & Equitable Climate"
+---
+
+Cultivating an inclusive classroom climate requires a growth mindset that is open to student feedback about their experiences and eager to experiment and make changes in the classroom. These small adjustments may help all of your students feel safe to explore, fail, grow, and learn.
+
+## Transparency & Accountability
+
+**Set the Tone** with Introductions
+
+-   Use non-binary, inclusive language (Say "Welcome Class or Folx or Everyone or Students or Y'all" rather than "Hey guys")
+    -   Here is a post with more forms of address: https://crystalhuff.com/2017/02/16/gender-inclusive-forms-of-address/
+-   Acknowledge your social identities (that you feel comfortable sharing), implicit biases & blind spots, and your understanding of how that informs your teaching
+
+**State your Intentions** with Syllabi Statements
+
+-   State your goals about inclusive classroom climate for students to **keep you accountable** and to provide transparent messaging about your chosen course design (explain why you've designed the class that way)
+
+-   Examples: [One of my Syllabi](https://docs.google.com/presentation/d/1lKTW2Ly_503t9tfqXFZx8-A7ALEJCBOKWlYPz4bPv9M/edit?usp=sharing), [Williams College](https://faculty.williams.edu/files/2017/09/Syllabi-Statements.pdf), [University of Michigan](https://sites.lsa.umich.edu/inclusive-teaching/setting-the-tone-for-inclusive-classrooms/)
+
+**Solicit feedback**
+
+-   Acknowledge you will make mistakes and have blind spots
+
+-   Make students feel safe to provide constructive feedback without fear of retribution
+
+-   Possibilities: Anonymous real-time survey ([Poll Everywhere](https://www.polleverywhere.com/)), midterm course evaluations, weekly student reflections, classroom observations
+
+## Develop Rapport with Students
+
+-   Use students' **preferred** name & ask for a pronunciation guide
+
+    -   Model: tell students what you prefer to be called
+
+-   Invite (but do not require) students to provide **pronouns** and use them
+
+    -   Model: normalize pronouns disclosures by providing your own pronouns (she/her, he/him, they/them, etc.)
+
+-   Share a bit of who you are (**humanize** yourself; you choose your level of disclosure)
+
+-   **Check-in** with students, individually and as a group
+
+    -   Send a quick note to struggling students or those who miss class
+    -   Anonymous survey ([Poll Everywhere](https://www.polleverywhere.com/)): "one word that describes your weekend", "how are you feeling? click on emotion wheel"
+
+## Trauma-Informed Teaching
+
+-   [Learning Brain vs. Survival Brain](https://www.youtube.com/watch?v=KoqaUANGvpA)
+    -   This short video provides a useful framework for students to reflect on their learning
+-   Address Context before Content (source: [Dr. Jaime Washington](https://washingtonconsultinggroup.net/jamie-washington))
+    -   Learning does not occur in a vacuum; acknowledge personal & collective struggles and trauma
+    -   In extreme circumstances of great turmoil, focus on basic student needs and be flexible with content & assignments
+-   Other Recommendations (Source: [Inside Higher Ed](https://www.insidehighered.com/advice/2020/06/03/seven-recommendations-helping-students-thrive-times-trauma))
+    -   Work to ensure emotional, cognitive, physical, and interpersonal safety
+    -   Foster trust by being clear, transparent, reliable
+    -   Facilitate peer support and mutual self-help in classes (check-in with each other)
+    -   Share power and decision making
+    -   Empower voice and choice by build on student strengths
+    -   Pay attention to cultural, historical, gender issues (with an intersectional lens)
+    -   Impart importance of sense of purpose
+
+## Cultivate Belonging
+
+-   Tell students that you believe in them and **they are capable**
+-   Encourage participation by asking [**open-ended questions**](https://sites.lsa.umich.edu/inclusive-teaching/useful-questions-for-dialogue-facilitation/) to promote dialogue
+    -   Reflect on your goals for asking questions
+    -   If you are looking for only one right answer, reconsider what you hope to gain by asking the question & the impact on students
+-   **Normalize struggle** and failure as an important step in learning (growth mindset)
+    -   Share your own stories of academic struggle
+
+## Build Learning Community
+
+-   Emphasize **student responsibility** for contributing to a positive learning environment
+-   Co-create learning **community agreements**
+    -   Spend time at beginning of class to create agreements to make it a positive, inclusive learning environment
+    -   Have students consider 'Why Am (Aren't) I Talking?' (W.A.I.T.) from [Emergent Strategy by adrienne maree brown](https://www.akpress.org/emergentstrategy.html)
+    -   Remind/Revise agreements throughout class
+    -   Examples: [U of Toronto](https://tatp.utoronto.ca/teaching-toolkit/effective-strategies/community-agreements/), [Sacramento State](https://www.csus.edu/academic-affairs/center-teaching-learning/_internal/_documents/community-agreements.pdf)
+-   Build **collaborative structure** into course design
+    -   Examples: in-class group activities, study groups, paired partners to provide peer support
+
+## Other Guides & Research
+
+Inventory of Inclusive Classrooms: https://sites.lsa.umich.edu/inclusive-teaching/inclusive-classrooms/inventory-of-inclusive-teaching-strategies/
+
+Chronicle of Higher Education Article: https://www.chronicle.com/article/how-to-make-your-teaching-more-inclusive/?utm_source=wb&utm_medium=en&cid=wb
+
+LGBT+ resources for statisticians and data scientists: https://www.significancemagazine.com/culture/624-lgbt-resources-for-statisticians-and-data-scientists
+
+Seven Recommendations for Trauma-informed education: https://www.insidehighered.com/advice/2020/06/03/seven-recommendations-helping-students-thrive-times-trauma
+
+Power of positive regard & rapport: https://www.chronicle.com/article/the-power-of-positive-regard/
+
+Building rapport online by Rebecca A. Glazier: https://educate.apsanet.org/communicating-to-build-rapport-with-online-students
+
+WestPoint Guide for Rapport: https://www.westpoint.edu/sites/default/files/inline-images/centers_research/center_for_teching_excellence/PDFs/mtp_project_papers/Dyrenforth_14.pdf
+
+Webb, Nathan, and Laura Obrycki Barrett. "Student views of instructor-student rapport in the college classroom." Journal of the Scholarship of Teaching and Learning (2014): 15-28.
+
+Strayhorn, T. L. (2012). College students' sense of belonging: A key to educational success for all students. New York: Routledge.
+
+Walton, G. M., & Cohen, G. L. (2007). A question of belonging: Race, social fit, and achievement. Journal of Personality and Social Psychology, 92(1), 82-96.

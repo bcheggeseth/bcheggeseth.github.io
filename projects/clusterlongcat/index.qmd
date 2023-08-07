@@ -1,0 +1,26 @@
+---
+title: "Clustering Longitudinal Categorical Data"
+description: This project focuses on comparing methods for clustering longitudinal categorical data.
+image: featured.jpg
+image-alt: "Photo from Shiny App"
+categories:
+  - Methodology
+  - Correlated Data
+  - Ongoing
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+Work with [Ellen Graham](https://ellen-graham.com/) '21, [Zuofu Huang](https://www.linkedin.com/in/zuofu-huang-588341180/) '21, and [Kieu-Giang Nguyen](https://www.linkedin.com/in/kgiangnguyen/) '20 for a summer research project in Summer 2019. This project focused on comparing methods for clustering longitudinal categorical data. The team created a tool for completing cluster analysis on such data using a variety of appropriate clustering methods. For each method, it produces visualizations and statistics to help interpret the clustering assignments. We also allow for comparing different clusters and producing clustering comparison statistics such as the adjusted Rand index. We include two data sets, but users could upload and analyze datasets of their choosing.
+
+The original motivating data set for this project was data on healthcare utilization for cancer patients who moved between categories (Home, Hospital, Hospice, Nursing Facility). The goal was to see if we could detect similarities between patients based solely on their patterns of care.
+
+This structure also appears in sleep stage data, like those produced by wearable technologies such as FitBit. If wore at night, an wearer is categorized into Wake, Light, Deep, or REM sleep when the device assumes sleep. Kieu-Giang Nguyen continued this project by analyzing this data in an Honor's Thesis.
+
+A future continuation of this work is to explore longitudinal patterns of categories in art location and purposes (see \[Mia Collaboration\]({{< relref "/project/miacollaboration" >}})).
+
+**Products**
+
+-   [Shiny App](https://heggesethlab.shinyapps.io/ShinyApp/) from Summer 2019 team is publicly available to compare methods.
+-   Nguyen, Kieu-Giang, (2020). ["Good Night?: Clustering Sleep Stage Data"](https://digitalcommons.macalester.edu/mathcs_honors/50/) Mathematics, Statistics, and Computer Science Honors Projects. 50.
