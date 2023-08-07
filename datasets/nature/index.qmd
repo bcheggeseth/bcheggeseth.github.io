@@ -1,0 +1,15 @@
+---
+title: "Nature Data Repositories"
+image: featured.jpg
+description: "Data from the publication, Nature."
+categories:
+  - Science
+  - Intro
+  - Upper Level
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+
+<https://www.nature.com/sdata/policies/repositories>

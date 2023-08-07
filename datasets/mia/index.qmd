@@ -1,0 +1,15 @@
+---
+title: "Mia Collection Data"
+image: featured.jpg
+description: "Art collection data of Minneapolis Institute of Art"
+categories:
+  - Arts
+  - JSON
+  - Upper Level
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+
+<https://github.com/artsmia/collection>

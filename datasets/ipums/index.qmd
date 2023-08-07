@@ -1,0 +1,15 @@
+---
+title: "IPUMS"
+image: featured.jpg
+description: "A catalog of microdata (individual-level) from U.S. Census, U.S. Current Population Survey, and international census data"
+categories:
+  - Social Science
+  - CSV
+  - Intro
+  - Upper Level
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+<https://ipums.org/>

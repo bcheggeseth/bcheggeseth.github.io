@@ -1,0 +1,15 @@
+---
+title: "OpenData"
+image: featured.jpg
+description: "A list of City, State, and Federal Open Data sets in the U.S. on safety, housing, energy, economy, and other government data."
+categories:
+  - Social Science
+  - CSV
+  - Intro
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+
+<https://www.data.gov/open-gov/>
