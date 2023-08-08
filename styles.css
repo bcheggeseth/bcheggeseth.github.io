@@ -1,1 +1,9 @@
 /* css styles */
+
+
+
+.navbar-brand
+{
+  font-family: 'Borel', serif;
+  font-size: 100px !important;
+}
