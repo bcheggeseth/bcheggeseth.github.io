@@ -14,8 +14,14 @@ website:
         menu: 
           - inclusion.qmd
           - awareness.qmd
-          - climate.qmd
-          - design.qmd
+          - href: climate.qmd
+            text: Classroom Climate
+          - href: design.qmd
+            text: Course Design
+          - href: https://docs.google.com/document/d/1dqqrTC1P4X7M5usZoPVM-WxTDNxeBhFWK9iCAs5Vy0s/edit?usp=sharing
+            text: Institutional Culture
+          - href: https://docs.google.com/document/d/1MZcQbc4hHiyTqsKbhC6qGsyk8EqvZkA1koSD9mu7PPI/edit?usp=sharing
+            text: Academic Hiring
       - href: teaching.qmd
         text: Teaching
       - text: Student Resources
