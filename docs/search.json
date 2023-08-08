@@ -189,6 +189,13 @@
     "text": "Pronunciation  she/her/hers\nStatistician and data scientist  MSCS Department @ Macalester College\n\n\nAssociate Professor of Statistics 2020-present | Macalester College\nAssistant Professor of Statistics 2018-2020 | Macalester College\nAssistant Professor of Statistics 2013-2018 | Williams College\n\n\n\nPhD in Statistics 2013 | University of California Berkeley\nBA in Math with Statistics concentration 2008 | Saint Olaf College"
   },
   {
+    "objectID": "internships.html",
+    "href": "internships.html",
+    "title": "Opportunities Outside the Classroom",
+    "section": "",
+    "text": "If you are interested in learning more about statistics and data science opportunities (internships, research programs, graduate school), check out my living guide that gets updated regularly. This is tailored to Macalester students but may be relevant to others."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
@@ -240,71 +247,29 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Experience",
+    "title": "Teaching",
     "section": "",
     "text": "In each course, I strive to cultivate an inclusive and equitable classroom and to ground the methodology in data ethics."
   },
   {
     "objectID": "teaching.html#macalester-college",
     "href": "teaching.html#macalester-college",
-    "title": "Experience",
+    "title": "Teaching",
     "section": "Macalester College",
     "text": "Macalester College\nSTAT/COMP 112: Intro to Data Science\n\nTopics: Foundational Data Visualization & Data Wrangling\n[F22], [S23], [F23]\n\nSTAT 155: Intro to Statistical Modeling\n\nTopics: Linear & Logistic Regression Models, Uncertainty (hypothesis testing, confidence intervals)\nCourse notes in collaboration with Leslie Myint and Kelsey Grinde\n[F18], [F19], [F20]\n\nSTAT 253: Statistical Machine Learning\n\nTopics: Regression, Classification, Clustering\nTextbook: An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani\n[F21], [S24]\n\nSTAT 452: Correlated Data\n\nTopics: Covariance/Correlation functions and matrices, time series (ARMA models), longitudinal (marginal and mixed effects models), spatial\nCourse notes\n[S19], [F19], [S22],[F23]\n\nSTAT 455: Mathematical Statistics\n\nTopics: Properties of estimators, Estimation techniques, mathematical properties of uncertainty estimates\n[S19]\n\nSTAT/COMP 456: Projects in Data Science\n\nTopics: Advanced DS skills, Data Science process\n[S23]"
   },
   {
     "objectID": "teaching.html#williams-college",
     "href": "teaching.html#williams-college",
-    "title": "Experience",
+    "title": "Teaching",
     "section": "Williams College",
     "text": "Williams College\nSTAT 101: Elementary Statistics & Data Analysis\n\nTextbook: Intro Stats by De Veaux, Velleman, and Bock\n\nSTAT 201: Statistics & Data Analysis\n\nTextbook: Stats: Data and Models by De Veaux, Velleman, and Bock\n\nSTAT 202: Introduction to Statistical Modeling\n\nTextbook: Stat2 by Cannon et al.\n\nSTAT 10: Data Visualization\n\nWinter Study course\nTextbooks: ggplot2 by Hadley Wickham, Interactive Data Visualization for the Web: An Introduction to Designing with D3 by Scott Murray\n\nSTAT 355: Multivariate Data Analysis\n\nTextbook: An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani\n\nSTAT 346: Regression and Forecasting\n\nTextbook: Applied Linear Regression Models by Kutner, Nachtsheim, and Neter\n\nSTAT 372: Longitudinal Data Analysis\n\nDeveloped course materials\n\nSTAT 442: Data Mining and Computational Statistics\n\nTextbooks: An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani and Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy by Cathy O’Neil"
   },
   {
     "objectID": "teaching.html#university-of-california-berkeley",
     "href": "teaching.html#university-of-california-berkeley",
-    "title": "Experience",
+    "title": "Teaching",
     "section": "University of California Berkeley",
     "text": "University of California Berkeley\nSTAT 2: Introduction to Statistics\n\nInstructor\nTextbook: Statistics by Freedman, Pisani, and Purves\n\nSTAT 153: Introduction to Time Series\n\nGraduate Student Instructor (Supervisor: Adityanand Guntuboyina)\nTextbook: The Analysis of Time Series, An Introduction by Chris Chatfield\n\nSTAT 153: Introduction to Time Series\nMATH 10: Methods of Mathematics\n\nGraduate Student Assistant, Curriculum Development\nSupervisors: Lior Patcher, Bernd Sturmfels\n\nExploration in Statistics\n\nGraduate Student Instructor\nSupervisors: Deborah Nolan, Duncan Temple Lang, Mark Hansen, Steve Sain"
-  },
-  {
-    "objectID": "datasets/mia/index.html",
-    "href": "datasets/mia/index.html",
-    "title": "Mia Collection Data",
-    "section": "",
-    "text": "https://github.com/artsmia/collection"
-  },
-  {
-    "objectID": "datasets/kaggle/index.html",
-    "href": "datasets/kaggle/index.html",
-    "title": "Kaggle Public Data Repository",
-    "section": "",
-    "text": "https://www.kaggle.com/datasets"
-  },
-  {
-    "objectID": "datasets/nature/index.html",
-    "href": "datasets/nature/index.html",
-    "title": "Nature Data Repositories",
-    "section": "",
-    "text": "https://www.nature.com/sdata/policies/repositories"
-  },
-  {
-    "objectID": "datasets/opendata/index.html",
-    "href": "datasets/opendata/index.html",
-    "title": "OpenData",
-    "section": "",
-    "text": "https://www.data.gov/open-gov/"
-  },
-  {
-    "objectID": "datasets/ucirepo/index.html",
-    "href": "datasets/ucirepo/index.html",
-    "title": "UCI Machine Learning Repository",
-    "section": "",
-    "text": "https://archive.ics.uci.edu/datasets"
-  },
-  {
-    "objectID": "datasets/undata/index.html",
-    "href": "datasets/undata/index.html",
-    "title": "UN Data Catalog",
-    "section": "",
-    "text": "https://data.un.org/"
   }
 ]

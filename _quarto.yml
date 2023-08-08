@@ -16,10 +16,12 @@ website:
           - awareness.qmd
           - climate.qmd
           - design.qmd
-      - text: Teaching
+      - href: teaching.qmd
+        text: Teaching
+      - text: Student Resources
         menu:
-          - teaching.qmd
           - datasets.qmd
+          - internships.qmd
       - projects.qmd
   page-footer:
     left: |

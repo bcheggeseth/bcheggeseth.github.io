@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: "Teaching"
 ---
 
 In each course, I strive to cultivate an [inclusive and equitable classroom](inclusion.html) and to ground the methodology in data ethics.
