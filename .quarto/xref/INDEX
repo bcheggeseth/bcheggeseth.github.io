@@ -70,5 +70,32 @@
   },
   "internships.qmd": {
     "internships.html": "b2217e35"
+  },
+  "projects/misattribution/index.qmd": {
+    "index.html": "b18447d6"
+  },
+  "projects/misspecifymixture/index.qmd": {
+    "index.html": "7781eb1c"
+  },
+  "projects/mixturemixedcomparison/index.qmd": {
+    "index.html": "6803f380"
+  },
+  "projects/paritybmiwomen/index.qmd": {
+    "index.html": "d5fb47d3"
+  },
+  "projects/prenatalDDT/index.qmd": {
+    "index.html": "5187b714"
+  },
+  "projects/prenatalPFAS/index.qmd": {
+    "index.html": "ae94559d"
+  },
+  "projects/prenatalphthalate/index.qmd": {
+    "index.html": "e3b03d8f"
+  },
+  "projects/splinetree/index.qmd": {
+    "index.html": "54ad748a"
+  },
+  "projects/verticalshifting/index.qmd": {
+    "index.html": "8a0748f0"
   }
 }
