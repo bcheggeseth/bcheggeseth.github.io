@@ -34,5 +34,12 @@
       "/projects/clusterlongcat/index.html",
       "/projects/kidneyfunction/index.html"
     ]
+  },
+  {
+    "listing": "/tidytuesday.html",
+    "items": [
+      "/tidytuesday/tidytues_2022-09-06/index.html",
+      "/tidytuesday/tidytues_2023-01-17/index.html"
+    ]
   }
 ]

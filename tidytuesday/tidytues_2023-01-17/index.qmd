@@ -1,0 +1,113 @@
+---
+title: "Art History"
+date: "2023-01-17"
+image: tt20230117.jpeg
+about: 
+  template: solana
+  image: tt20230117.jpeg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+library(MetBrewer)
+```
+
+## Data Context
+
+### Art History
+
+The data this week comes from the arthistory data package.
+
+> This dataset contains data that was used for Holland Stam's thesis work, titled Quantifying art historical narratives. The data was collected to assess the demographic representation of artists through editions of Janson's History of Art and Gardner's Art Through the Ages, two of the most popular art history textbooks used in the American education system. In this package specifically, both artist-level and work-level data was collected along with variables regarding the artists' demographics and numeric metrics for describing how much space they or their work took up in each edition of each textbook.
+
+> This package contains three datasets:
+> - worksjanson: Contains individual work-level data by edition of Gardner's art history textbook from 1963 until 2011. For each work, there is information about the size of the work and text as displayed in the textbook as well as details about the work's medium and year created. Demographic data about the artist is also included.
+> - worksgardner: Contains individual work-level data by edition of Gardner's art history textbook from 1926 until 2020. For each work, there is information about the size of the work as displayed in the textbook as well as the size of the accompanying descriptive text. Demographic data about the artist is also included.
+> - artists: Contains various information about artists by edition of Gardner or Janson's art history textbook from 1926 until 2020. Data includes demographic information, space occupied in the textbook, as well as presence in the MoMA and Whitney museums.
+
+```{r}
+artists <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-01-17/artists.csv')
+
+head(artists)
+```
+
+```{r}
+artists %>%
+  distinct(artist_name,year,moma_count_to_year,whitney_count_to_year) %>% arrange(year) %>% View()
+```
+
+
+
+```{r}
+unique_artists <- artists %>%
+  distinct(artist_name,artist_nationality,artist_nationality_other,artist_gender,artist_race,artist_race_nwi) 
+
+
+unique_artists %>%
+  ggplot(aes(x = artist_gender)) + geom_bar()
+
+
+unique_artists %>%
+  ggplot(aes(x = artist_nationality)) + geom_bar() + coord_flip()
+
+
+unique_artists <- unique_artists %>% separate(artist_nationality,sep = '-',into = c('FirstNationality','SecondNationality')) %>%
+  mutate(multiNational = !is.na(SecondNationality)) 
+
+unique_artists %>% count(artist_gender)
+
+
+
+
+
+```
+
+```{r}
+unique_artists_museum <- artists %>%
+  distinct(artist_unique_id,artist_name,artist_nationality,artist_nationality_other,artist_gender,artist_race,artist_race_nwi,year,moma_count_to_year,whitney_count_to_year) 
+
+
+foo <- unique_artists_museum  %>% 
+  filter(year > 1954) %>%
+  mutate(year_cat = cut(year,seq(1954,2024,by=5),labels = seq(1955,2020,by=5))) %>% 
+  group_by(year_cat,artist_unique_id,artist_name,artist_nationality,artist_nationality_other,artist_gender,artist_race,artist_race_nwi) %>%
+  summarize(moma_count = max(moma_count_to_year),whitney_count = max(whitney_count_to_year)) %>%
+  arrange(artist_unique_id, year_cat) %>%
+  group_by(artist_unique_id,artist_name,artist_nationality,artist_nationality_other,artist_gender,artist_race,artist_race_nwi) %>%
+  mutate(moma_lag = dplyr::lag(moma_count),whitney_lag = dplyr::lag(whitney_count)) %>%
+  mutate(diff_moma = moma_count - moma_lag,diff_whitney = whitney_count -whitney_lag)  %>%
+  mutate(diff_moma = if_else(is.na(diff_moma),moma_count,diff_moma),diff_whitney = if_else(is.na(diff_whitney),whitney_count,diff_whitney)) %>% 
+  ungroup() 
+
+
+foo %>%
+  group_by(year_cat,artist_gender) %>%
+  summarize(Moma = sum(diff_moma),Whitney = sum(diff_whitney)) %>%
+  pivot_longer(cols=c('Moma','Whitney'), names_to = 'museum' ,values_to = 'exh_count') %>%
+  mutate(artist_gender = factor(fct_recode(factor(artist_gender),'Unknown' = 'N/A'))) %>%
+  ggplot(aes(x = year_cat, y = exh_count, fill = fct_reorder(artist_gender,exh_count))) + 
+  geom_col() + 
+  labs(y = 'Exhibition Count', x = '5-Year Periods',fill = 'Recorded Artist Gender',title='Do Art Museums align with Art History Textbooks?',subtitle='Exhibitions counts of artists mentioned in Janson or Garner textbooks\n at Moma and Whitney Art Museums', caption = 'Created by Brianna Heggeseth | Source: https://saralemus7.github.io/arthistory/' ) +
+  facet_grid(museum~.) + 
+  scale_fill_manual( values=met.brewer("Renoir", n=3,type='discrete')) + 
+  theme_classic() + 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))  + theme(legend.position="bottom")
+
+
+foo %>%
+  group_by(year_cat,artist_race) %>%
+  summarize(Moma = sum(diff_moma),Whitney = sum(diff_whitney)) %>%
+  pivot_longer(cols=c('Moma','Whitney'), names_to = 'museum' ,values_to = 'exh_count') %>%
+  mutate(artist_race = factor(fct_recode(factor(artist_race),'Missing' = 'N/A'))) %>%
+  ggplot(aes(x = year_cat, y = exh_count, fill = fct_reorder(artist_race,exh_count))) + 
+  geom_col() + 
+  labs(y = 'Exhibition Proportion', x = '5-Year Periods', fill = 'Recorded Artist Race',title='Do Art Museums align with Art History Textbooks?',subtitle='Exhibitions counts of artists mentioned in Janson or Garner textbooks\n at Moma and Whitney Art Museums', caption = 'Created by Brianna Heggeseth | Source: https://saralemus7.github.io/arthistory/' ) +
+  facet_grid(museum~.) + 
+  scale_fill_manual( values=met.brewer("Signac", n=6,type='discrete'))  + 
+  theme_classic() + 
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))  + theme(legend.position="bottom")
+
+```
+

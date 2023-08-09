@@ -1,0 +1,12 @@
+---
+title: "Tidy Tuesday"
+listing:
+  contents: tidytuesday
+  sort: "title desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+comments: false
+---

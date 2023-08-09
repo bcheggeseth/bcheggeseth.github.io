@@ -28,7 +28,15 @@ website:
         menu:
           - internships.qmd
           - datasets.qmd
-      - projects.qmd
+      - text: Projects
+        menu: 
+          - href: projects.qmd
+            text: "Scholarly Data Projects"
+          - href: https://www.causeweb.org/jedi/
+            text: "JEDI-Informed Teaching Resources"
+          - href: tidytuesday.qmd
+            text: "Tidy Tuesday"
+ 
   page-footer:
     left: |
       &copy; Brianna Heggeseth, 2023<br>

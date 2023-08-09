@@ -103,5 +103,14 @@
   },
   "projects/countingtc/index.qmd": {
     "index.html": "9ebacb90"
+  },
+  "tidytuesday/tidytues_2022-09-06/index.qmd": {
+    "index.html": "8b35ff37"
+  },
+  "tidytuesday.qmd": {
+    "tidytuesday.html": "5188671f"
+  },
+  "tidytuesday/tidytues_2023-01-17/index.qmd": {
+    "index.html": "9d8293ad"
   }
 }
