@@ -1,0 +1,17 @@
+---
+title: 'Vertically shifted Growth Mixture Models'
+description:  Vertically shifted mixture models focus on explaining longitudinal shape.
+image: featured.jpg
+categories:
+  - Methodology
+  - Correlated Data
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+Coming out of my dissertation work, I developed a methodological study of mixture models for longitudinal data and their ability to detect growth patterns. In this paper, I showed that the default model assumptions do not necessarily create groups that are homogenous in terms of growth pattern over time as they seek to explain the most variation, whether it be from the overall level or pattern over time. I suggested a pre-processing step that removes the outcome level to explicitly focus on the shape. 
+
+**Product** 
+
+- [**Heggeseth, B. C.** and Jewell, N. P. (2018), "How Gaussian mixture models might miss detecting factors that impact growth patterns," *Annals of Applied Statistics*, 12(1): 222-245.](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-12/issue-1/How-Gaussian-mixture-models-might-miss-detecting-factors-that-impact/10.1214/17-AOAS1066.short)

@@ -1,0 +1,19 @@
+---
+title: Updating Implicit Impressions
+description: Analysis on the Affect Misattribution Procedure (AMP)
+image: featured.jpg
+image-alt: "Figure from Mann, et al."
+categories:
+  - Applied Collaboration
+  - Social Psychology
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+Mann, Cone, and Ferguson are social psychologists who study explicit and implicit reactions to new information. There have been questions in the scholarly community about whether the main tool that they use to measure implicit reactions, the Affect Misattribution Procedure (AMP), actually measures unintended responses. My contribution to this study was the statistical analysis and interpretation of their analysis. I collaborated with them to analyze repeated measures data from 8 new studies and as well as reanalyze data from their past published studies.  The main statistical concern was whether their previous conclusions were still valid despite the fact the distributions of the observations were bimodal. Thus, I designed a series of analyses that included sensitivity analyses to test the robustness of their conclusions to perturbations in the observed data distribution and pooled analysis across similar experiments. 
+
+**Product** 
+
+- [Mann, T. C., Cone, J., **Heggeseth, B. C.**, and Ferguson, M. J. (2019), "Updating implicit impressions: New evidence on intentionality and the Affect Misattribution Procedure." *Journal of Personality and Social Psychology*, 116(3), 349-374.
+](https://pubmed.ncbi.nlm.nih.gov/30802132/) 

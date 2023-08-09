@@ -1,0 +1,18 @@
+---
+title: 'Parity and BMI in US Women: a prospective 25‐year study'
+description: Parity and BMI in Women
+image: featured.jpg
+categories:
+  - Applied Collaboration
+  - Correlated Data
+  - Environmental Epidemiology
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+This work with Dr. Barbara Abrams is an application of GEE models to longitudinal BMI measurements over a woman's lifetime, accounting for the timing and number of births they had in their lifetime.
+
+**Product** 
+
+[Abrams, B., Heggeseth, B., Rehkopf, D., & Davis, E. (2013). Parity and body mass index in US women: a prospective 25‐year study. Obesity, 21(8), 1514-1518.](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.20503)

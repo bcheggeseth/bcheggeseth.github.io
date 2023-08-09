@@ -1,0 +1,18 @@
+---
+title: 'Prenatal DDT and Childhood Growth'
+description: Prenatal DDT and Childhood Growth
+image: featured.jpg
+categories:
+  - Applied Collaboration
+  - Correlated Data
+  - Environmental Epidemiology
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+This was one of the first applications of growth mixture modeling to environmental epidemiology. 
+
+**Product** 
+
+[Heggeseth, B., Harley, K., Warner, M., Jewell, N., & Eskenazi, B. (2015). Detecting associations between early-life DDT exposures and childhood growth patterns: a novel statistical approach. PLoS One, 10(6), e0131443.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131443)

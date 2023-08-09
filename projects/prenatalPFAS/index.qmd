@@ -1,0 +1,18 @@
+---
+title: 'Prenatal PFAS exposure and early childhood growth'
+description: Prenatal PFAS and Early Childhood Growth
+image: featured.jpg
+categories:
+  - Applied Collaboration
+  - Correlated Data
+  - Environmental Epidemiology
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+In 2016, [Dr. Megan Romano](https://geiselmed.dartmouth.edu/epidemiology/people/faculty/megan-romano/) of Dartmouth University contacted me regarding my expertise in longitudinal methods for childhood growth. I helped her write a grant proposal and started working as a statistical consulting on this approved grant that seeks to estimate the relationship between prenatal exposure to PFAS and childhood adiposity growth over time. I wrote the analysis plan, implemented it, and wrote the paper with Dr. Romano and other collaborators.
+
+**Product**
+
+[Romano ME, Heggeseth BC, Gallagher LG, Botelho JC, Calafat AM, Gilbert-Diamond D, Karagas MR. (2022) Gestational per- and polyfluoroalkyl substances exposure and infant body mass index trajectory in the New Hampshire Birth Cohort Study. Environ Res. 215(Pt 3):114418.](https://pubmed.ncbi.nlm.nih.gov/36162478/)

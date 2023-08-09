@@ -1,0 +1,16 @@
+---
+title: Misspecification of Mixture Models
+description: Misspecification of Mixture Models
+image: featured.jpg
+categories:
+  - Methodology
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+This work was one of the first papers developed out of my PhD dissertation. It was a simulation study focused on the bias and variance of estimates of parameter estimates of a Gaussian mixture model if the correlation structure is incorrectly specified. 
+
+**Product** 
+
+[Heggeseth, B. C., & Jewell, N. P. (2018). How Gaussian mixture models might miss detecting factors that impact growth patterns. The Annals of Applied Statistics, 12(1), 222-245.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.5729)

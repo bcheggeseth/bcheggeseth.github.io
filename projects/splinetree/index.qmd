@@ -1,0 +1,17 @@
+---
+title: 'Longitudinal Regression Trees'
+description: splinetree R package
+image: featured.jpg
+categories:
+  - Methodology
+  - Correlated Data
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+Work with Anna Neufeld (initially as an Honors project) to review and compare existing methods to create a regression tree based on longitudinal quantitative outcome data and then improving the methodology to be able to detect additive and interactive relationships between baseline covariates and growth patterns. 
+
+**Product** 
+
+- [splinetree](https://anna-neufeld.github.io/splinetree/) R package is available on CRAN to implement this work.

@@ -16,9 +16,18 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/verticalshifting/index.html",
+      "/projects/misattribution/index.html",
+      "/projects/prenatalphthalate/index.html",
+      "/projects/prenatalPFAS/index.html",
+      "/projects/prenatalDDT/index.html",
+      "/projects/paritybmiwomen/index.html",
+      "/projects/misspecifymixture/index.html",
+      "/projects/splinetree/index.html",
       "/projects/diversityondisplay/index.html",
       "/projects/artistdiversity/index.html",
       "/projects/crickets/index.html",
+      "/projects/mixturemixedcomparison/index.html",
       "/projects/miacollaboration/index.html",
       "/projects/clusterlongcat/index.html",
       "/projects/kidneyfunction/index.html"

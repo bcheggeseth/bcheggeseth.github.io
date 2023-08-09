@@ -1,0 +1,19 @@
+---
+title: 'Prenatal Phthalate Exposure and Childhood'
+description: Prenatal Phthalate Exposure and Childhood Growth
+image: featured.jpg
+categories:
+  - Applied Collaboration
+  - Correlated Data
+  - Environmental Epidemiology
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+In collaboration with epidemiologists at the Center for Environmental Research and Children’s Health in Berkeley, CA, I applied three advanced statistical methods to estimate the association between prenatal exposure of 11 phthalate metabolites and body mass index trajectories. I used generalized additive models, growth mixture models, and functional principal component analysis with regression trees and random forests. The novel contribution in this paper is the additional flexibility in the methods to allow for non-linear relationships between exposures and trajectories and the direct model comparison. 
+
+
+**Product**
+
+- [**Heggeseth BC**, Holland N, Eskenazi B, Kogut K, and Harley KG. "Heterogeneity in Childhood Growth Trajectories in relation to Prenatal Phthalate Exposure."" *Environmental Research*, 175(1): 22-33, 2019.](https://pubmed.ncbi.nlm.nih.gov/31102947/) 
