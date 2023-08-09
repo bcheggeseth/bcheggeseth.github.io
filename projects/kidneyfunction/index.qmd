@@ -20,10 +20,13 @@ The research team have been collecting longitudinal data on cohorts of young, he
 
 In collaboration with nephrologists, epidemiologists, and statisticians, I came up with an alternative methodology (details forthcoming in publication) to detect an early kidney injury, the time at which an individual might switch from healthy kidney function to declining, unhealthy kidney function before being clinically diagnosed as having CKD.
 
-Macalester students, Alexander McCreight and Connie (Yixuan) Zhang, worked with me to implement this method to investigate potential exposures with early kidney injury. The first paper using this method is currently in review.
+Macalester students, [Alex McCreight](https://alexmccreight.com/)  and [Connie Zhang](https://www.linkedin.com/in/connie-zhang-311081194), worked with me to implement this method to investigate potential exposures with early kidney injury. The first paper using this method is currently in review.
 
-With my students, we will compare the potential conclusions from the original GMM methodology with this alternative method.
+[Connie Zhang](https://www.linkedin.com/in/connie-zhang-311081194), in her Honors Thesis, worked to expand the novel method to allow for a bivariate distribution based on eGFR. Continued work is needed to refine this method for early kidney disease detection.
+
+Using simulation studies, I am compare the potential conclusions from the original GMM methodology with this alternative method.
 
 **Product**
 
--   **In Progress**
+-   First paper submitted after revise and resubmit decision
+-   Further analysis is in progress

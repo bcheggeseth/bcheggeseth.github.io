@@ -4,7 +4,7 @@ image: featured.jpg
 image-alt: "Screenshot of Shiny App."
 categories:
   - Applied Collaboration
-  - Art Museums
+  - Arts
 about: 
   template: solana
   image: featured.jpg

@@ -1,0 +1,20 @@
+---
+title: "Counting the Twin Cities"
+image: featured.jpg
+image-alt: "Screenshot of Shiny App."
+categories:
+  - Applied Collaboration
+  - Arts
+about: 
+  template: solana
+  image: featured.jpg
+---
+
+In the fall 2020, Macalester College students in the course THDA217, Gender and Race Theory in Performance embarked in a two-pronged learning experience: they read and discussed seminal texts on gender and race theory while collecting data on theater and dance organizations in the Twin Cities to assess gender and race/ethnicity representation in their artistic leaderships and staff. Taught by Professor [Cláudia Tatinge Nascimento](https://www.macalester.edu/theater-and-dance/facultystaff/claudiatatingenascimento/), the course introduced theory as key to thinking lived experience, and vice-versa. 
+
+In the summer 2021, with the generous support of a Collaborative Summer Research grant from the Mellon Renewed Purpose Summer Research Fund, I worked with Theater and Dance professor [Cláudia Tatinge Nascimento](https://www.macalester.edu/theater-and-dance/facultystaff/claudiatatingenascimento/), and students Alice Endo and Skye Reddy revisited and polished that project with the goal of illuminating how race and ethnicity, gender, and their intersections are represented across leadership roles and the range of organizational budgets. 
+
+
+**Product**
+
+-   Interactive Shiny App: <https://bheggeseth.shinyapps.io/CountingTwinCities/>

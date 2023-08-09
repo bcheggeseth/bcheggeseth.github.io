@@ -5,21 +5,25 @@ image: featured.jpg
 image-alt: "Alvintrusty via Wikimedia Commons"
 categories:
   - Applied Collaboration
-  - Art Museums
-  - Ongoing
+  - Arts
+  - Local Consulting
 about: 
   template: solana
   image: featured.jpg
 ---
 
-In the Fall of 2019, I start working the the publicly available collection data at https://github.com/artsmia/collection. I reached out to staff at the Minneapolis Institute of Art and we found that I could help them achieve new goals for analyzing their collection data. With the help of Macalester students, we have provided internal reports of analysis of art object metadata and location history.
+In the Fall of 2019, I start working the the publicly available collection data at <https://github.com/artsmia/collection>. I reached out to staff at the Minneapolis Institute of Art and we found that I could help them achieve new goals for analyzing their collection data. With the help of Macalester students, we have provided internal reports of analysis of art object metadata and location history.
 
 **Products**
 
 -   Independent Projects
-    -   [Connie Zhang](https://www.linkedin.com/in/connie-zhang-311081194) in Fall 2019-Summer 2020: Visitor Experience and Art Object Tag Creation
-    -   [Thu Dang](https://www.linkedin.com/in/thudang24/) in Summer 2020: Visualization of Deaccession of Art Objects over time
-    -   [Jiaying Wu](https://www.linkedin.com/in/jiaying-wu-work/) in Summer 2021: Reflection Tool for Mia Collecting Goals; Presentation to Chief Curator and Mia Staff
+    -   [Connie Zhang](https://www.linkedin.com/in/connie-zhang-311081194)  [Fall 2019-Summer 2020]: Visitor Experience and Art Object Tag Creation
+    -   [Thu Dang](https://www.linkedin.com/in/thudang24/) [Summer 2020]: Visualization of Deaccession of Art Objects over time
+    -   [Jiaying Wu](https://www.linkedin.com/in/jiaying-wu-work/) [Summer 2021]: Reflection Tool for Mia Collecting Goals; Presentation to Chief Curator and Mia Staff
+     -   [Alex McCreight](https://alexmccreight.com/) [Fall 2022]: Revised Tool to Visualize Mia's Collection; Presentation to Mia Chief Curator and  Curatorial and Database Staff
+     
+![Gif of Tool to Visualize Mia's Collection](mia.gif)     
+     
 -   Internal Department Reports
     -   Summary of Accession and Deaccession over Time
     -   Summary of Location Purpose of Art Objects over Time

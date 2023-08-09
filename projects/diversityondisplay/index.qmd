@@ -5,7 +5,7 @@ image: featured.jpg
 image-alt: "Figure from Project Shiny App"
 categories:
   - Applied Collaboration
-  - Art Museums
+  - Arts
 about: 
   template: solana
   image: featured.jpg
