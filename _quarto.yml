@@ -50,6 +50,7 @@ format:
   html:
     theme: [yeti, theme.scss]
     toc: true
+    code-overflow: wrap
 
 editor: visual
 

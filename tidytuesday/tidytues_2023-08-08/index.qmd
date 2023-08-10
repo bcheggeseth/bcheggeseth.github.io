@@ -1,0 +1,67 @@
+---
+title: "Hot Ones Episodes"
+date: "2023-08-08"
+image: tt20230808.jpeg
+about: 
+  template: solana
+  image: tt20230808.jpeg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggplot2)
+```
+
+## Data Context
+
+# Hot Ones Episodes 
+
+The data this week comes from Wikipedia articles: [*Hot Ones*](https://en.wikipedia.org/wiki/Hot_Ones) and [List of Hot Ones episodes](https://en.wikipedia.org/wiki/List_of_Hot_Ones_episodes). Thank you to [Carl Börstell](https://github.com/borstell) for the [suggestion and cleaning script](https://github.com/rfordatascience/tidytuesday/issues/591)!
+
+> Hot Ones is an American YouTube talk show, created by Chris Schonberger, hosted by Sean Evans and produced by First We Feast and Complex Media. Its basic premise involves celebrities being interviewed by Evans over a platter of increasingly spicy chicken wings.
+
+
+```{r}
+episodes <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-08-08/episodes.csv')
+sauces <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-08-08/sauces.csv')
+seasons <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-08-08/seasons.csv')
+
+
+head(episodes)
+head(sauces)
+head(seasons)
+```
+
+```{r}
+episodes %>% 
+  left_join(sauces %>% filter(sauce_number == 10)) %>%
+  ggplot(aes(x = factor(scoville), fill = finished)) +
+  geom_bar(position = 'fill')
+  
+
+episodes %>% 
+  left_join(sauces %>% filter(sauce_number == 10)) %>%
+  ggplot(aes(x = season, fill = finished)) +
+  geom_bar(position = 'fill') + facet_wrap(~ scoville)
+  
+```
+
+
+```{r}
+sauces %>%
+  ggplot(aes(y = scoville, x = sauce_number,color = season, group = season))  + 
+  geom_line() + 
+  labs(y = 'Socville (Spicy Level)', x = 'Sauce Order', title = 'Hot Ones Spicy Levels across Seasons') + 
+  scale_x_continuous(breaks = 1:10) +
+  scale_color_gradient(low = 'grey',high='red')
+  
+library(gganimate)
+sauces %>%
+  ggplot(aes(y = scoville, x = sauce_number, group = season))  + 
+  geom_line(color = 'red') + 
+  labs(y = 'Socville (Spicy Level)', x = 'Sauce Order', title = 'Hot Ones Spicy Levels across Seasons', subtitle = 'Season {round(frame_time)}') + 
+  scale_x_continuous(breaks = 1:10) +
+  transition_time(season) +
+  shadow_mark(colour = 'grey', size = 0.75)
+```
