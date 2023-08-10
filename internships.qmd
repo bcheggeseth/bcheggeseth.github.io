@@ -15,3 +15,9 @@ Check out a [resource guide](https://docs.google.com/document/d/19wlevPT0p1WF7oG
 - [DataFest](https://ww2.amstat.org/education/datafest/) at [Macalester](https://www.macalester.edu/datafest/)
 - [MinneMUDAC](https://minneanalytics.org/minnemudac2023/)
 - [Undergraduate Statistics Project Competition](https://www.causeweb.org/usproc/)
+
+## Conferences
+
+[Electronic Undergraduate Statistics Research conference](https://www.causeweb.org/usproc/eusr)
+
+[Data 4 Public Good](https://www.tciamn.org/events/2023/d4pg)
