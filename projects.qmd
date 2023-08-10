@@ -10,3 +10,5 @@ listing:
 page-layout: full
 comments: false
 ---
+
+My primary research interests lie broadly in the study of statistical models and machine learning algorithms and their application in practice. Recently, I have collaborated with colleagues in social psychology, environmental epidemiology, genetic biology, and the arts. My statistical methodology work has focused on uncovering group structure and patterns in longitudinal data through clustering analysis techniques, probability models, as well as data mining approaches.
