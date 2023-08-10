@@ -2,13 +2,18 @@
 title: "Opportunities Outside the Classroom"
 ---
 
+*The information on this page is tailored to Macalester students but may be relevant to others.*
 
 
 ## Internships, summer programs, graduate school
 
-Check out a [resource guide](https://docs.google.com/document/d/19wlevPT0p1WF7oG9ccFEN5MrRXJBK9zHuSkVSoel6v8/edit?usp=sharing) that I updated regularly. 
+- Check out a [resource guide](https://docs.google.com/document/d/19wlevPT0p1WF7oG9ccFEN5MrRXJBK9zHuSkVSoel6v8/edit?usp=sharing) that Brianna updates regularly. 
 
-*This is tailored to Macalester students but may be relevant to others.*
+- To request a letter of recommendation for a summer program or graduate school, you'll complete [this form](https://forms.gle/nQgsiBDjmCKRb2vbA) after Brianna agrees to write the letter.
+
+- To request that a job reference or internship supervisor, please email Brianna with details about the position.
+
+
 
 ## Competitions
 
@@ -20,4 +25,4 @@ Check out a [resource guide](https://docs.google.com/document/d/19wlevPT0p1WF7oG
 
 [Electronic Undergraduate Statistics Research conference](https://www.causeweb.org/usproc/eusr)
 
-[Data 4 Public Good](https://www.tciamn.org/events/2023/d4pg)
+[Twin Cities Alliance Data 4 Public Good](https://www.tciamn.org/events/2023/d4pg)
