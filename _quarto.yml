@@ -5,6 +5,7 @@ project:
     - "*.qmd"
 
 website:
+  favicon: images/icon.png
   title: "Brianna Heggeseth"
   navbar:
     left:
