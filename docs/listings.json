@@ -1,19 +1,5 @@
 [
   {
-    "listing": "/datasets.html",
-    "items": [
-      "/datasets/undata/index.html",
-      "/datasets/ucirepo/index.html",
-      "/datasets/opendata/index.html",
-      "/datasets/nature/index.html",
-      "/datasets/mia/index.html",
-      "/datasets/kaggle/index.html",
-      "/datasets/covid/index.html",
-      "/datasets/ipums/index.html",
-      "/datasets/datastories/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/verticalshifting/index.html",
@@ -33,6 +19,20 @@
       "/projects/miacollaboration/index.html",
       "/projects/clusterlongcat/index.html",
       "/projects/kidneyfunction/index.html"
+    ]
+  },
+  {
+    "listing": "/datasets.html",
+    "items": [
+      "/datasets/undata/index.html",
+      "/datasets/ucirepo/index.html",
+      "/datasets/opendata/index.html",
+      "/datasets/nature/index.html",
+      "/datasets/mia/index.html",
+      "/datasets/kaggle/index.html",
+      "/datasets/covid/index.html",
+      "/datasets/ipums/index.html",
+      "/datasets/datastories/index.html"
     ]
   },
   {

@@ -2,7 +2,7 @@
 title: "Cultivating an Inclusive & Equitable Climate"
 ---
 
-Cultivating an inclusive classroom climate requires a growth mindset that is open to student feedback about their experiences and eager to experiment and make changes in the classroom. These small adjustments may help all of your students feel safe to explore, fail, grow, and learn.
+Cultivating an inclusive classroom climate requires a growth mindset, openness to student feedback about their experiences, and eagerness to experiment and make changes in the classroom. These minor adjustments may help all of your students feel safe to explore, fail, grow, and learn.
 
 ## Transparency & Accountability
 
@@ -10,7 +10,7 @@ Cultivating an inclusive classroom climate requires a growth mindset that is ope
 
 -   Use non-binary, inclusive language (Say "Welcome Class or Folx or Everyone or Students or Y'all" rather than "Hey guys")
     -   Here is a post with more forms of address: https://crystalhuff.com/2017/02/16/gender-inclusive-forms-of-address/
--   Acknowledge your social identities (that you feel comfortable sharing), implicit biases & blind spots, and your understanding of how that informs your teaching
+-   Acknowledge your social identities (that you feel comfortable sharing), implicit biases & knowing ignorance, and your understanding of how that informs your teaching
 
 **State your Intentions** with Syllabi Statements
 
@@ -20,7 +20,7 @@ Cultivating an inclusive classroom climate requires a growth mindset that is ope
 
 **Solicit feedback**
 
--   Acknowledge you will make mistakes and have blind spots
+-   Acknowledge you will make mistakes and have areas of ignorance
 
 -   Make students feel safe to provide constructive feedback without fear of retribution
 
@@ -34,47 +34,47 @@ Cultivating an inclusive classroom climate requires a growth mindset that is ope
 
 -   Invite (but do not require) students to provide **pronouns** and use them
 
-    -   Model: normalize pronouns disclosures by providing your own pronouns (she/her, he/him, they/them, etc.)
+    -   Model: normalize pronoun disclosures by providing pronouns (she/her, he/him, they/them, etc.)
 
 -   Share a bit of who you are (**humanize** yourself; you choose your level of disclosure)
 
 -   **Check-in** with students, individually and as a group
 
     -   Send a quick note to struggling students or those who miss class
-    -   Anonymous survey ([Poll Everywhere](https://www.polleverywhere.com/)): "one word that describes your weekend", "how are you feeling? click on emotion wheel"
+    -   Anonymous survey ([Poll Everywhere](https://www.polleverywhere.com/)): "One word that describes your weekend," "How are you feeling? Click on the emotion wheel."
 
 ## Trauma-Informed Teaching
 
 -   [Learning Brain vs. Survival Brain](https://www.youtube.com/watch?v=KoqaUANGvpA)
-    -   This short video provides a useful framework for students to reflect on their learning
+    -   This short video provides a valuable framework for students to reflect on their learning
 -   Address Context before Content (source: [Dr. Jaime Washington](https://washingtonconsultinggroup.net/jamie-washington))
     -   Learning does not occur in a vacuum; acknowledge personal & collective struggles and trauma
     -   In extreme circumstances of great turmoil, focus on basic student needs and be flexible with content & assignments
 -   Other Recommendations (Source: [Inside Higher Ed](https://www.insidehighered.com/advice/2020/06/03/seven-recommendations-helping-students-thrive-times-trauma))
     -   Work to ensure emotional, cognitive, physical, and interpersonal safety
-    -   Foster trust by being clear, transparent, reliable
-    -   Facilitate peer support and mutual self-help in classes (check-in with each other)
+    -   Foster trust by being precise, transparent, reliable
+    -   Facilitate peer support and mutual self-help in classes (check in with each other)
     -   Share power and decision making
-    -   Empower voice and choice by build on student strengths
-    -   Pay attention to cultural, historical, gender issues (with an intersectional lens)
-    -   Impart importance of sense of purpose
+    -   Empower voice and choice by building on student strengths
+    -   Pay attention to cultural, historical, and gender issues (with an intersectional lens)
+    -   Impart importance of a sense of purpose
 
 ## Cultivate Belonging
 
 -   Tell students that you believe in them and **they are capable**
 -   Encourage participation by asking [**open-ended questions**](https://sites.lsa.umich.edu/inclusive-teaching/useful-questions-for-dialogue-facilitation/) to promote dialogue
     -   Reflect on your goals for asking questions
-    -   If you are looking for only one right answer, reconsider what you hope to gain by asking the question & the impact on students
--   **Normalize struggle** and failure as an important step in learning (growth mindset)
+    -   If you are looking for only one correct answer, reconsider what you hope to gain by asking the question & the impact on students
+-   **Normalize struggle** and failure as an essential step in learning (growth mindset)
     -   Share your own stories of academic struggle
 
 ## Build Learning Community
 
 -   Emphasize **student responsibility** for contributing to a positive learning environment
 -   Co-create learning **community agreements**
-    -   Spend time at beginning of class to create agreements to make it a positive, inclusive learning environment
-    -   Have students consider 'Why Am (Aren't) I Talking?' (W.A.I.T.) from [Emergent Strategy by adrienne maree brown](https://www.akpress.org/emergentstrategy.html)
-    -   Remind/Revise agreements throughout class
+    -   Spend time at the beginning of class to create agreements to make it a positive, inclusive learning environment
+    -   Have students consider, 'Why Am (Aren't) I Talking?' (W.A.I.T.) from [Emergent Strategy by adrienne maree brown](https://www.akpress.org/emergentstrategy.html)
+    -   Remind/Revise agreements throughout the class
     -   Examples: [U of Toronto](https://tatp.utoronto.ca/teaching-toolkit/effective-strategies/community-agreements/), [Sacramento State](https://www.csus.edu/academic-affairs/center-teaching-learning/_internal/_documents/community-agreements.pdf)
 -   Build **collaborative structure** into course design
     -   Examples: in-class group activities, study groups, paired partners to provide peer support
