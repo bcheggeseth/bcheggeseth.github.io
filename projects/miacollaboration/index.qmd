@@ -12,7 +12,7 @@ about:
   image: featured.jpg
 ---
 
-In the Fall of 2019, I start working the the publicly available collection data at <https://github.com/artsmia/collection>. I reached out to staff at the Minneapolis Institute of Art and we found that I could help them achieve new goals for analyzing their collection data. With the help of Macalester students, we have provided internal reports of analysis of art object metadata and location history.
+In the Fall of 2019, I started working with the the publicly available collection data at <https://github.com/artsmia/collection>. I reached out to staff at the Minneapolis Institute of Art and we found that I could help them achieve new goals for analyzing their collection data. With the help of Macalester students, we have provided internal reports of analysis of art object metadata and location history.
 
 **Products**
 
