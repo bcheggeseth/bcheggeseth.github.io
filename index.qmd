@@ -9,8 +9,6 @@ about:
   links:
     - icon: envelope
       href: mailto:bheggese@macalester.edu
-    - icon: twitter
-      href: https://twitter.com/bcheggeseth
     - icon: github
       href: https://github.com/bcheggeseth
 ---
