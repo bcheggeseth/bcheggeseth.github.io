@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Brianna Heggeseth - Scholarly Data Projects</title>
+<title>Scholarly Data Projects – Brianna Heggeseth</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,17 +38,23 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-365d4121d176b307b6774a519aa1a853.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -57,6 +63,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -92,8 +99,35 @@ ul.task-list li input[type="checkbox"] {
   })
   </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -101,96 +135,96 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Brianna Heggeseth</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-social-justice" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-social-justice" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Social Justice</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-social-justice">    
         <li>
-    <a class="dropdown-item" href="./inclusion.html" rel="" target="">
+    <a class="dropdown-item" href="./inclusion.html">
  <span class="dropdown-text">JEDI Definitions</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./awareness.html" rel="" target="">
+    <a class="dropdown-item" href="./awareness.html">
  <span class="dropdown-text">Raising Awareness</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./climate.html" rel="" target="">
+    <a class="dropdown-item" href="./climate.html">
  <span class="dropdown-text">Classroom Climate</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./design.html" rel="" target="">
+    <a class="dropdown-item" href="./design.html">
  <span class="dropdown-text">Course Design</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://docs.google.com/document/d/1dqqrTC1P4X7M5usZoPVM-WxTDNxeBhFWK9iCAs5Vy0s/edit?usp=sharing" rel="" target="">
+    <a class="dropdown-item" href="https://docs.google.com/document/d/1dqqrTC1P4X7M5usZoPVM-WxTDNxeBhFWK9iCAs5Vy0s/edit?usp=sharing">
  <span class="dropdown-text">Institutional Culture</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://docs.google.com/document/d/1MZcQbc4hHiyTqsKbhC6qGsyk8EqvZkA1koSD9mu7PPI/edit?usp=sharing" rel="" target="">
+    <a class="dropdown-item" href="https://docs.google.com/document/d/1MZcQbc4hHiyTqsKbhC6qGsyk8EqvZkA1koSD9mu7PPI/edit?usp=sharing">
  <span class="dropdown-text">Academic Hiring</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html" rel="" target="">
- <span class="menu-text">Teaching</span></a>
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-student-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-student-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Student Resources</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-student-resources">    
         <li>
-    <a class="dropdown-item" href="./internships.html" rel="" target="">
+    <a class="dropdown-item" href="./internships.html">
  <span class="dropdown-text">Opportunities Outside the Classroom</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./datasets.html" rel="" target="">
+    <a class="dropdown-item" href="./datasets.html">
  <span class="dropdown-text">Datasets</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Projects</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-projects">    
         <li>
-    <a class="dropdown-item" href="./projects.html" rel="" target="">
+    <a class="dropdown-item" href="./projects.html">
  <span class="dropdown-text">Scholarly Data Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="https://www.causeweb.org/jedi/" rel="" target="">
+    <a class="dropdown-item" href="https://www.causeweb.org/jedi/">
  <span class="dropdown-text">JEDI-Informed Teaching Resources</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./tidytuesday.html" rel="" target="">
+    <a class="dropdown-item" href="./tidytuesday.html">
  <span class="dropdown-text">Tidy Tuesday</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -200,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="Applied Collaboration">Applied Collaboration <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Arts">Arts <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Correlated Data">Correlated Data <span class="quarto-category-count">(11)</span></div><div class="category" data-category="Environmental Epidemiology">Environmental Epidemiology <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Genetics">Genetics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Local Consulting">Local Consulting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Methodology">Methodology <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Ongoing">Ongoing <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Social Psychology">Social Psychology <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="QXBwbGllZCUyMENvbGxhYm9yYXRpb24=">Applied Collaboration <span class="quarto-category-count">(12)</span></div><div class="category" data-category="QXJ0cw==">Arts <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q29ycmVsYXRlZCUyMERhdGE=">Correlated Data <span class="quarto-category-count">(11)</span></div><div class="category" data-category="RW52aXJvbm1lbnRhbCUyMEVwaWRlbWlvbG9neQ==">Environmental Epidemiology <span class="quarto-category-count">(6)</span></div><div class="category" data-category="R2VuZXRpY3M=">Genetics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TG9jYWwlMjBDb25zdWx0aW5n">Local Consulting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWV0aG9kb2xvZ3k=">Methodology <span class="quarto-category-count">(5)</span></div><div class="category" data-category="T25nb2luZw==">Ongoing <span class="quarto-category-count">(3)</span></div><div class="category" data-category="U29jaWFsJTIwUHN5Y2hvbG9neQ==">Social Psychology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -211,7 +245,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -219,7 +253,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p>My primary research interests lie broadly in the study of statistical models and machine learning algorithms and their application in practice. Recently, I have collaborated with colleagues in social psychology, environmental epidemiology, genetic biology, and the arts. My statistical methodology work has focused on uncovering group structure and patterns in longitudinal data through clustering analysis techniques, probability models, as well as data mining approaches.</p>
 
@@ -247,21 +283,21 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Methodology,Correlated Data" data-listing-file-modified-sort="1691550138064" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="0" data-categories="TWV0aG9kb2xvZ3klMkNDb3JyZWxhdGVkJTIwRGF0YQ==" data-listing-file-modified-sort="1691550138064" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
 <a href="./projects/verticalshifting/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/verticalshifting/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/verticalshifting/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Vertically shifted Growth Mixture Models
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Methodology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWV0aG9kb2xvZ3k='); return false;">
 Methodology
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
 </div>
@@ -277,21 +313,21 @@ Vertically shifted mixture models focus on explaining longitudinal shape.
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Applied Collaboration,Social Psychology" data-listing-file-modified-sort="1691548625848" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="1" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNTb2NpYWwlMjBQc3ljaG9sb2d5" data-listing-file-modified-sort="1691548625848" data-listing-reading-time-sort="1" data-listing-word-count-sort="173">
 <a href="./projects/misattribution/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/misattribution/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Mann, et al.">
+<img loading="lazy" src="./projects/misattribution/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Mann, et al.">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Updating Implicit Impressions
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Social Psychology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('U29jaWFsJTIwUHN5Y2hvbG9neQ=='); return false;">
 Social Psychology
 </div>
 </div>
@@ -307,24 +343,24 @@ Analysis on the Affect Misattribution Procedure (AMP)
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Applied Collaboration,Correlated Data,Environmental Epidemiology" data-listing-file-modified-sort="1691549959706" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="2" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0Vudmlyb25tZW50YWwlMjBFcGlkZW1pb2xvZ3k=" data-listing-file-modified-sort="1691549959706" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
 <a href="./projects/prenatalphthalate/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/prenatalphthalate/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/prenatalphthalate/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Prenatal Phthalate Exposure and Childhood
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental Epidemiology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RW52aXJvbm1lbnRhbCUyMEVwaWRlbWlvbG9neQ=='); return false;">
 Environmental Epidemiology
 </div>
 </div>
@@ -340,24 +376,24 @@ Prenatal Phthalate Exposure and Childhood Growth
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Applied Collaboration,Correlated Data,Environmental Epidemiology" data-listing-file-modified-sort="1691549696909" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="3" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0Vudmlyb25tZW50YWwlMjBFcGlkZW1pb2xvZ3k=" data-listing-file-modified-sort="1691549696909" data-listing-reading-time-sort="1" data-listing-word-count-sort="108">
 <a href="./projects/prenatalPFAS/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/prenatalPFAS/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/prenatalPFAS/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Prenatal PFAS exposure and early childhood growth
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental Epidemiology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RW52aXJvbm1lbnRhbCUyMEVwaWRlbWlvbG9neQ=='); return false;">
 Environmental Epidemiology
 </div>
 </div>
@@ -373,24 +409,24 @@ Prenatal PFAS and Early Childhood Growth
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Applied Collaboration,Correlated Data,Environmental Epidemiology" data-listing-file-modified-sort="1691549176020" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="4" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0Vudmlyb25tZW50YWwlMjBFcGlkZW1pb2xvZ3k=" data-listing-file-modified-sort="1691549176020" data-listing-reading-time-sort="1" data-listing-word-count-sort="45">
 <a href="./projects/prenatalDDT/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/prenatalDDT/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/prenatalDDT/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Prenatal DDT and Childhood Growth
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental Epidemiology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RW52aXJvbm1lbnRhbCUyMEVwaWRlbWlvbG9neQ=='); return false;">
 Environmental Epidemiology
 </div>
 </div>
@@ -406,24 +442,24 @@ Prenatal DDT and Childhood Growth
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="Applied Collaboration,Correlated Data,Environmental Epidemiology" data-listing-file-modified-sort="1691549034086" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="5" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0Vudmlyb25tZW50YWwlMjBFcGlkZW1pb2xvZ3k=" data-listing-file-modified-sort="1691549034086" data-listing-reading-time-sort="1" data-listing-word-count-sort="58">
 <a href="./projects/paritybmiwomen/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/paritybmiwomen/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/paritybmiwomen/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Parity and BMI in US Women: a prospective 25‐year study
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental Epidemiology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RW52aXJvbm1lbnRhbCUyMEVwaWRlbWlvbG9neQ=='); return false;">
 Environmental Epidemiology
 </div>
 </div>
@@ -439,18 +475,18 @@ Parity and BMI in Women
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="6" data-categories="Methodology" data-listing-file-modified-sort="1691548778287" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="6" data-categories="TWV0aG9kb2xvZ3k=" data-listing-file-modified-sort="1691548778287" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
 <a href="./projects/misspecifymixture/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/misspecifymixture/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/misspecifymixture/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Misspecification of Mixture Models
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Methodology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWV0aG9kb2xvZ3k='); return false;">
 Methodology
 </div>
 </div>
@@ -466,21 +502,21 @@ Misspecification of Mixture Models
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="Methodology,Correlated Data" data-listing-file-modified-sort="1691550049908" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="7" data-categories="TWV0aG9kb2xvZ3klMkNDb3JyZWxhdGVkJTIwRGF0YQ==" data-listing-file-modified-sort="1691550049908" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
 <a href="./projects/splinetree/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/splinetree/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/splinetree/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Longitudinal Regression Trees
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Methodology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWV0aG9kb2xvZ3k='); return false;">
 Methodology
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
 </div>
@@ -496,21 +532,21 @@ splinetree R package
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="Applied Collaboration,Arts" data-listing-file-modified-sort="1691614275044" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="8" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNBcnRz" data-listing-file-modified-sort="1691614275044" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
 <a href="./projects/diversityondisplay/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/diversityondisplay/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Project Shiny App">
+<img loading="lazy" src="./projects/diversityondisplay/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Project Shiny App">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Diversity on Display at the National Gallery
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Arts'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXJ0cw=='); return false;">
 Arts
 </div>
 </div>
@@ -526,26 +562,26 @@ Datathon at the National Gallery of art project to explore diversity of artists 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="Applied Collaboration,Arts" data-listing-file-modified-sort="1691614266787" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="9" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNBcnRz" data-listing-file-modified-sort="1691614266787" data-listing-reading-time-sort="1" data-listing-word-count-sort="188">
 <a href="./projects/artistdiversity/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/artistdiversity/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Screenshot of Shiny App.">
+<img loading="lazy" src="./projects/artistdiversity/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Screenshot of Shiny App.">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Diversity of artists in major U.S. museums
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Arts'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXJ0cw=='); return false;">
 Arts
 </div>
 </div>
 <div class="card-text listing-description">
-In collaboration with a team of applied mathematicians, statisticians, and art historians and curators, I used data science and machine learning tools to…
+In collaboration with a team of applied mathematicians, statisticians, and art historians and curators, I used data science and machine learning tools to estimate the…
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -556,27 +592,27 @@ In collaboration with a team of applied mathematicians, statisticians, and art h
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="Applied Collaboration,Correlated Data,Genetics,Ongoing" data-listing-file-modified-sort="1691613561900" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="10" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0dlbmV0aWNzJTJDT25nb2luZw==" data-listing-file-modified-sort="1691613561900" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
 <a href="./projects/crickets2/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/crickets2/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Heggeseth, et al.">
+<img loading="lazy" src="./projects/crickets2/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Heggeseth, et al.">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Cricket Paternity Distribution &amp; CHC Profile
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Genetics'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('R2VuZXRpY3M='); return false;">
 Genetics
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ongoing'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('T25nb2luZw=='); return false;">
 Ongoing
 </div>
 </div>
@@ -592,24 +628,24 @@ Relationship between paternity preferences and CHC Profiles in hybridizing field
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="Applied Collaboration,Correlated Data,Genetics" data-listing-file-modified-sort="1691439396608" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="11" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0dlbmV0aWNz" data-listing-file-modified-sort="1691439396608" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
 <a href="./projects/crickets/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/crickets/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Heggeseth, et al.">
+<img loading="lazy" src="./projects/crickets/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Figure from Heggeseth, et al.">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Cricket Courtship
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Genetics'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('R2VuZXRpY3M='); return false;">
 Genetics
 </div>
 </div>
@@ -625,21 +661,21 @@ Aurvival analysis on time to courtship in hybridizing field crickets
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="Applied Collaboration,Arts" data-listing-file-modified-sort="1691614243128" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="12" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNBcnRz" data-listing-file-modified-sort="1691614243128" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
 <a href="./projects/countingtc/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/countingtc/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Screenshot of Shiny App.">
+<img loading="lazy" src="./projects/countingtc/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Screenshot of Shiny App.">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Counting the Twin Cities
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Arts'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXJ0cw=='); return false;">
 Arts
 </div>
 </div>
@@ -655,24 +691,24 @@ In the fall 2020, Macalester College students in the course THDA217, Gender and 
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="Methodology,Correlated Data,Environmental Epidemiology" data-listing-file-modified-sort="1691548895253" data-listing-reading-time-sort="1">
+<div class="g-col-1" data-index="13" data-categories="TWV0aG9kb2xvZ3klMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0Vudmlyb25tZW50YWwlMjBFcGlkZW1pb2xvZ3k=" data-listing-file-modified-sort="1691548895253" data-listing-reading-time-sort="1" data-listing-word-count-sort="50">
 <a href="./projects/mixturemixedcomparison/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/mixturemixedcomparison/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/mixturemixedcomparison/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Comparing Mixture and Mixed Effects Models for baseline exposures and longitudinal growth
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Methodology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWV0aG9kb2xvZ3k='); return false;">
 Methodology
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental Epidemiology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RW52aXJvbm1lbnRhbCUyMEVwaWRlbWlvbG9neQ=='); return false;">
 Environmental Epidemiology
 </div>
 </div>
@@ -688,24 +724,24 @@ Mixture vs.&nbsp;Mixed Effects Models
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-categories="Applied Collaboration,Arts,Local Consulting" data-listing-file-modified-sort="1694439308196" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="14" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNBcnRzJTJDTG9jYWwlMjBDb25zdWx0aW5n" data-listing-file-modified-sort="1694439308196" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
 <a href="./projects/miacollaboration/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/miacollaboration/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Alvintrusty via Wikimedia Commons">
+<img loading="lazy" src="./projects/miacollaboration/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Alvintrusty via Wikimedia Commons">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Collaboration with Minneapolis Institute of Art
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Arts'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXJ0cw=='); return false;">
 Arts
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Local Consulting'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TG9jYWwlMjBDb25zdWx0aW5n'); return false;">
 Local Consulting
 </div>
 </div>
@@ -721,24 +757,24 @@ Data analysis of collection data of Minneapolis Institute of Art
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="15" data-categories="Methodology,Correlated Data,Ongoing" data-listing-file-modified-sort="1691439396607" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="15" data-categories="TWV0aG9kb2xvZ3klMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ09uZ29pbmc=" data-listing-file-modified-sort="1691439396607" data-listing-reading-time-sort="2" data-listing-word-count-sort="245">
 <a href="./projects/clusterlongcat/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/clusterlongcat/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Photo from Shiny App">
+<img loading="lazy" src="./projects/clusterlongcat/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Photo from Shiny App">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Clustering Longitudinal Categorical Data
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Methodology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWV0aG9kb2xvZ3k='); return false;">
 Methodology
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ongoing'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('T25nb2luZw=='); return false;">
 Ongoing
 </div>
 </div>
@@ -754,27 +790,27 @@ This project focuses on comparing methods for clustering longitudinal categorica
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="16" data-categories="Applied Collaboration,Correlated Data,Environmental Epidemiology,Ongoing" data-listing-file-modified-sort="1691613896857" data-listing-reading-time-sort="2">
+<div class="g-col-1" data-index="16" data-categories="QXBwbGllZCUyMENvbGxhYm9yYXRpb24lMkNDb3JyZWxhdGVkJTIwRGF0YSUyQ0Vudmlyb25tZW50YWwlMjBFcGlkZW1pb2xvZ3klMkNPbmdvaW5n" data-listing-file-modified-sort="1691613896857" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
 <a href="./projects/kidneyfunction/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./projects/kidneyfunction/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Photo by Lon&amp;Queta on flickr, https://www.flickr.com/photos/lonqueta/3680348838">
+<img loading="lazy" src="./projects/kidneyfunction/featured.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Photo by Lon&amp;Queta on flickr, https://www.flickr.com/photos/lonqueta/3680348838">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Associations with Early Kidney Injuries
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Applied Collaboration'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXBwbGllZCUyMENvbGxhYm9yYXRpb24='); return false;">
 Applied Collaboration
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Correlated Data'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29ycmVsYXRlZCUyMERhdGE='); return false;">
 Correlated Data
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Environmental Epidemiology'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RW52aXJvbm1lbnRhbCUyMEVwaWRlbWlvbG9neQ=='); return false;">
 Environmental Epidemiology
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ongoing'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('T25nb2luZw=='); return false;">
 Ongoing
 </div>
 </div>
@@ -830,18 +866,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -873,11 +898,48 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -887,8 +949,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -900,7 +971,129 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -944,6 +1137,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -969,6 +1163,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1031,13 +1251,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© Brianna Heggeseth, 2023<br> All content licensed under <i class="bi-badge-cc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a></div>   
+    <div class="nav-footer-left">
+<p>© Brianna Heggeseth, 2023<br> All content licensed under <i class="bi-badge-cc"></i> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">(CC BY-NC-SA 4.0)</a></p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">Site built with <a href="https://quarto.org/">Quarto</a></div>
+    <div class="nav-footer-right">
+<p>Site built with <a href="https://quarto.org/">Quarto</a></p>
+</div>
   </div>
 </footer>
+
 
 
 

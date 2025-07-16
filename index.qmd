@@ -26,8 +26,11 @@ Statistician and data scientist <br>
 
 ### Experience
 
+Professor of Statistics<br>
+2025-present |  Macalester College
+
 Associate Professor of Statistics<br>
-2020-present |  Macalester College
+2020-2025 |  Macalester College
 
 Assistant Professor of Statistics<br>
 2018-2020 |  Macalester College
@@ -52,7 +55,7 @@ As a teacher, my goal is to empower students to be curious and question the worl
 
 The best part of my job is working with students! If you are a student (or educator) who would like to chat about opportunities in the field of statistics, biostatistics, or data science, and why I love working in it, please get in touch!
 
-<i class='bi-download'></i> Download my <a href="https://drive.google.com/file/d/1YRUHdXXgEBFzN886aU65fDeDUsIB1yK6/view?usp=sharing" target="_blank">CV</a>.
+<i class='bi-download'></i> Download my <a href="https://drive.google.com/file/d/1h9SuD-d234pKXQME0K_78hmOFuy3FX_O/view?usp=sharing" target="_blank">CV</a>.
 
 ### Personal
 
