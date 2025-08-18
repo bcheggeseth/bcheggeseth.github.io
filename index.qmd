@@ -49,7 +49,7 @@ BA in Math with Statistics concentration<br>
 
 My primary research interests lie broadly in the study of statistical models and machine learning algorithms and their application in practice. Recently, I have collaborated with colleagues in social psychology, environmental epidemiology, and genetic biology. My statistical methodology work has focused on uncovering group structure and patterns in longitudinal data through clustering analysis techniques, probability models, as well as data mining approaches.
 
-As a teacher, my goal is to empower students to be curious and question the world around them, to construct a convincing argument and make decisions in the midst of uncertainty, tackle and solve difficult problems, and to take ownership of their learning and their life. I strive to design my courses and <a href="/inclusion/">cultivate inclusive and equitable classroom dynamics</a> so that every student, no matter their background or identity, can be empowered to succeed and thrive in our world.
+As a teacher, my goal is to empower students to be curious and question the world around them, to construct a convincing argument and make decisions in the midst of uncertainty, tackle and solve difficult problems, and to take ownership of their learning and their life. I strive to design my courses and <a href="inclusion.html">cultivate inclusive and equitable classroom dynamics</a> so that every student, no matter their background or identity, can be empowered to succeed and thrive in our world.
 
 The best part of my job is working with students! If you are a student (or educator) who would like to chat about opportunities in the field of statistics, biostatistics, or data science, and why I love working in it, please get in touch!
 

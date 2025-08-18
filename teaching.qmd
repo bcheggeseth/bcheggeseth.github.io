@@ -36,8 +36,8 @@ In each course, I strive to cultivate an [inclusive and equitable classroom](inc
 **STAT 452: Correlated Data**
 
 -   Topics: Covariance/Correlation functions and matrices, time series (ARMA models), longitudinal (marginal and mixed effects models), spatial
--   [Course notes](https://bcheggeseth.github.io/CorrelatedData/)
--   \[S19\], \[F19\], \[[S22](https://bcheggeseth.github.io/452_spring_2022/)\], \[[F23](https://bcheggeseth.github.io/452_fall_2023/)\], \[F25\]
+-   [Course notes](https://mac-stat.github.io/CorrelatedDataNotes/)
+-   \[S19\], \[F19\], \[[S22](https://bcheggeseth.github.io/452_spring_2022/)\], \[[F23](https://bcheggeseth.github.io/452_fall_2023/)\], \[[F25](https://bcheggeseth.github.io/452_fall_2025/)\]
 
 **STAT 455: Mathematical Statistics**
 
